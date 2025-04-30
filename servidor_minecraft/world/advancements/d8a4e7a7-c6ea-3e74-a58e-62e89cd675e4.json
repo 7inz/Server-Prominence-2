@@ -1256,6 +1256,12 @@
     },
     "done": true
   },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-04-30 22:21:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-04-30 21:31:18 +0000"
@@ -1826,6 +1832,12 @@
     },
     "done": true
   },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-04-30 22:20:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-04-30 21:31:45 +0000"
@@ -2225,6 +2237,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-30 21:57:25 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-04-30 22:23:36 +0000"
     },
     "done": true
   },
@@ -3538,6 +3556,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-04-30 22:26:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-30 21:31:18 +0000"
@@ -3991,6 +4015,12 @@
   "betternether:recipes/decorations/mangrove_taburet": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-30 22:27:48 +0000"
     },
     "done": true
   },
