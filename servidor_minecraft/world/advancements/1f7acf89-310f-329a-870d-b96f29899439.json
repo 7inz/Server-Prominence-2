@@ -585,7 +585,8 @@
       "chalk_cliffs": "2025-04-30 21:55:50 +0000",
       "saguaro_desert": "2025-04-30 20:53:17 +0000",
       "grassland": "2025-04-30 21:52:18 +0000",
-      "prairie": "2025-04-30 21:55:55 +0000"
+      "prairie": "2025-04-30 21:55:55 +0000",
+      "redwoods": "2025-04-30 22:31:17 +0000"
     },
     "done": false
   },
@@ -596,7 +597,8 @@
       "chalk_cliffs": "2025-04-30 21:55:50 +0000",
       "saguaro_desert": "2025-04-30 20:53:17 +0000",
       "grassland": "2025-04-30 21:52:18 +0000",
-      "prairie": "2025-04-30 21:55:55 +0000"
+      "prairie": "2025-04-30 21:55:55 +0000",
+      "redwoods": "2025-04-30 22:31:17 +0000"
     },
     "done": false
   },
@@ -888,6 +890,12 @@
     },
     "done": true
   },
+  "simplyswords:hearthflame": {
+    "criteria": {
+      "requirement": "2025-04-30 22:32:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-04-30 21:37:10 +0000"
@@ -921,6 +929,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-04-30 21:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-30 22:36:43 +0000"
     },
     "done": true
   },
@@ -1866,6 +1880,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2025-04-30 22:33:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-30 21:31:18 +0000"
@@ -2585,6 +2605,12 @@
   "minecells:book/mobs/runner": {
     "criteria": {
       "requirement": "2025-04-30 22:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-30 22:40:00 +0000"
     },
     "done": true
   },
@@ -4484,6 +4510,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-04-30 22:40:00 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/lime_carpet_from_light_blue_carpet_with_yellow_dye": {
     "criteria": {
       "has_yellow_dye": "2025-04-30 21:31:25 +0000"
@@ -4743,6 +4775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-30 22:40:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-04-30 21:29:54 +0000"
@@ -4830,6 +4868,12 @@
   "mcdw:recipes/daggers/dagger_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-04-30 22:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-30 22:40:00 +0000"
     },
     "done": true
   },
@@ -5289,6 +5333,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/red_coffin": {
+    "criteria": {
+      "has_item": "2025-04-30 22:31:33 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_grave_bane": {
     "criteria": {
       "has_gold_ingot": "2025-04-30 21:36:20 +0000"
@@ -5373,6 +5423,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-04-30 22:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 21:37:26 +0000"
@@ -5436,6 +5492,12 @@
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_bed": {
+    "criteria": {
+      "has_bed": "2025-04-30 22:31:33 +0000"
     },
     "done": true
   },
@@ -5670,6 +5732,12 @@
   "bclib:recipes/tools/tag_compass": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-04-30 22:00:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-04-30 22:33:51 +0000"
     },
     "done": true
   },
@@ -6220,6 +6288,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-04-30 22:36:43 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/palm_button": {
     "criteria": {
       "has_palm_planks": "2025-04-30 21:45:42 +0000"
@@ -6394,6 +6468,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-04-30 22:40:00 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_phantom_bow": {
     "criteria": {
       "has_base_bow": "2025-04-30 21:07:26 +0000"
@@ -6547,6 +6627,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-30 21:32:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-30 22:36:43 +0000"
     },
     "done": true
   },

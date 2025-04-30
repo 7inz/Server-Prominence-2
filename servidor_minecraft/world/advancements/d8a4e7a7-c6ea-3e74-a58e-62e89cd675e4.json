@@ -575,7 +575,8 @@
       "chalk_cliffs": "2025-04-30 21:55:50 +0000",
       "saguaro_desert": "2025-04-30 20:53:17 +0000",
       "grassland": "2025-04-30 21:51:08 +0000",
-      "prairie": "2025-04-30 21:55:55 +0000"
+      "prairie": "2025-04-30 21:55:55 +0000",
+      "redwoods": "2025-04-30 22:31:05 +0000"
     },
     "done": false
   },
@@ -588,7 +589,8 @@
       "chalk_cliffs": "2025-04-30 21:55:50 +0000",
       "saguaro_desert": "2025-04-30 20:53:17 +0000",
       "grassland": "2025-04-30 21:51:08 +0000",
-      "prairie": "2025-04-30 21:55:55 +0000"
+      "prairie": "2025-04-30 21:55:55 +0000",
+      "redwoods": "2025-04-30 22:31:05 +0000"
     },
     "done": false
   },
@@ -804,6 +806,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-30 22:43:00 +0000",
+      "minecraft:spider": "2025-04-30 22:42:45 +0000",
       "minecraft:husk": "2025-04-30 20:56:41 +0000",
       "minecraft:zombie": "2025-04-30 20:58:49 +0000"
     },
@@ -1148,6 +1152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_fence": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
@@ -1166,6 +1176,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:35:54 +0000"
@@ -1181,6 +1197,12 @@
   "betternether:recipes/decorations/willow_ladder": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-30 22:31:37 +0000"
     },
     "done": true
   },
@@ -1211,6 +1233,12 @@
   "promenade:recipes/crafting/palm/wood": {
     "criteria": {
       "has_log": "2025-04-30 21:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -1478,6 +1506,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
@@ -1535,6 +1569,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -1796,6 +1836,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/cypress_chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-30 21:27:48 +0000"
@@ -1880,9 +1926,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_enchanted_book": {
     "criteria": {
       "has_enchanted_book": "2025-04-30 21:27:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -1934,6 +1992,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
+    },
+    "done": true
+  },
   "minecells:root": {
     "criteria": {
       "requirement": "2025-04-30 21:56:31 +0000"
@@ -1943,6 +2007,12 @@
   "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
     "criteria": {
       "has_diamond": "2025-04-30 21:57:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 22:31:37 +0000"
     },
     "done": true
   },
@@ -1961,6 +2031,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -2003,6 +2079,18 @@
   "betternether:recipes/decorations/nether_mushroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-04-30 22:40:14 +0000"
     },
     "done": true
   },
@@ -2060,6 +2148,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_scatter": {
+    "criteria": {
+      "has_oak_planks": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-04-30 21:34:56 +0000"
@@ -2105,6 +2199,12 @@
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2025-04-30 21:28:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-04-30 22:40:14 +0000"
     },
     "done": true
   },
@@ -2156,6 +2256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-30 22:31:37 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_glaive": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:35:54 +0000"
@@ -2189,6 +2295,12 @@
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-04-30 21:31:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -2303,6 +2415,12 @@
   "techreborn:recipes/crafting_table/manual": {
     "criteria": {
       "has_book": "2025-04-30 21:31:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-04-30 22:31:37 +0000"
     },
     "done": true
   },
@@ -2516,6 +2634,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-04-30 22:31:37 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/copper_pillar/oxidized_copper_pillar_stonecutting": {
     "criteria": {
       "has_cut_copper_slab": "2025-04-30 21:34:56 +0000"
@@ -2543,6 +2667,12 @@
   "betterend:recipes/misc/aqua_affinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-30 21:31:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
     },
     "done": true
   },
@@ -2612,6 +2742,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-30 21:34:54 +0000"
@@ -2621,6 +2757,12 @@
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-04-30 21:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -2645,6 +2787,12 @@
   "betternether:recipes/decorations/stalagnate_taburet": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -2775,6 +2923,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-04-30 21:31:19 +0000"
@@ -2814,6 +2968,12 @@
   "betternether:recipes/combat/shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-04-30 21:45:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -3015,6 +3175,12 @@
     },
     "done": true
   },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_shovel_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-04-30 21:57:25 +0000"
@@ -3030,6 +3196,12 @@
   "minecells:book/mobs/shieldbearer": {
     "criteria": {
       "requirement": "2025-04-30 21:57:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -3105,6 +3277,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-30 21:45:05 +0000"
@@ -3141,9 +3319,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-30 22:31:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_chair": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-04-30 22:31:37 +0000"
     },
     "done": true
   },
@@ -3171,6 +3367,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 22:31:37 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-04-30 21:28:16 +0000"
@@ -3186,6 +3388,12 @@
   "smallships:recipes/transportation/spruce_cog": {
     "criteria": {
       "in_water": "2025-04-30 21:28:16 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
     },
     "done": true
   },
@@ -3303,6 +3511,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-30 21:36:38 +0000"
@@ -3330,6 +3544,12 @@
   "betterend:recipes/decorations/jellyshroom_sign": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -3562,6 +3782,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-30 21:31:18 +0000"
@@ -3643,6 +3869,12 @@
   "betterend:recipes/decorations/dragon_tree_fence": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -3838,6 +4070,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_cyan": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
@@ -3871,6 +4109,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-04-30 21:28:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -3952,6 +4196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/pocket_computer_normal": {
     "criteria": {
       "has_apple": "2025-04-30 21:27:48 +0000"
@@ -3967,6 +4217,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -4108,9 +4364,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_meat": {
+    "criteria": {
+      "has_raw_meat": "2025-04-30 22:31:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-30 21:31:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
     },
     "done": true
   },
@@ -4204,6 +4472,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/run_in_the_promenade": {
     "criteria": {
       "run": "2025-04-30 22:07:08 +0000"
@@ -4213,6 +4487,12 @@
   "betterend:recipes/decorations/lacugrove_ladder": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -4237,6 +4517,12 @@
   "betternether:recipes/decorations/wart_fence": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 22:31:37 +0000"
     },
     "done": true
   },
@@ -4294,6 +4580,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-04-30 22:31:37 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-04-30 21:28:16 +0000"
@@ -4309,6 +4601,12 @@
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2025-04-30 21:28:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -4366,6 +4664,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 22:31:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/weathered_cut_copper": {
     "criteria": {
       "has_weathered_copper": "2025-04-30 21:27:54 +0000"
@@ -4405,6 +4709,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-04-30 21:34:56 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
+    "criteria": {
+      "has_plank": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -4481,9 +4791,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_venom_glaive": {
     "criteria": {
       "has_poisonous_potato": "2025-04-30 21:31:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -4631,6 +4953,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-30 21:31:18 +0000"
@@ -4646,6 +4974,18 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-30 21:51:57 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-04-30 22:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-30 22:31:37 +0000"
     },
     "done": true
   },
@@ -4793,6 +5133,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
+    "criteria": {
+      "has_plank": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-30 21:45:03 +0000"
@@ -4907,9 +5253,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/plenty_pottery_sherd": {
+    "criteria": {
+      "has_chest": "2025-04-30 22:40:14 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_leggings": {
     "criteria": {
       "has_diamond": "2025-04-30 21:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:39:09 +0000"
     },
     "done": true
   },
@@ -4928,6 +5286,12 @@
   "minecells:book/mobs/leaping_zombie": {
     "criteria": {
       "requirement": "2025-04-30 21:58:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-04-30 22:40:14 +0000"
     },
     "done": true
   },
@@ -5060,6 +5424,18 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-30 22:39:09 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/redstone/tag_hopper": {
+    "criteria": {
+      "has_tag_c_chest": "2025-04-30 22:40:14 +0000"
     },
     "done": true
   },
