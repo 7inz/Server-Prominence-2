@@ -1,0 +1,17 @@
+{
+	id: "66f02f52-cd99-3c5d-a129-b5e4261517c2"
+	type: "player"
+	player_name: "x_sergio_x"
+	ranks: {
+		66f02f52-cd99-3c5d-a129-b5e4261517c2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "x_sergio_x"
+		"ftbteams:description": ""
+		"ftbteams:color": "#79FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
