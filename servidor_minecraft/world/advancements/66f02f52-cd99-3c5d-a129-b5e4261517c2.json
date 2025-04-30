@@ -1220,6 +1220,12 @@
     },
     "done": true
   },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-04-30 22:05:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-04-30 21:46:36 +0000"
@@ -1295,6 +1301,12 @@
   "mcdw:recipes/bows/bow_lost_souls": {
     "criteria": {
       "has_string": "2025-04-30 21:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-30 22:01:53 +0000"
     },
     "done": true
   },
@@ -1637,6 +1649,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 21:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-04-30 22:04:42 +0000"
     },
     "done": true
   },
@@ -2495,6 +2513,12 @@
   "vinery:main/fruits_of_the_field": {
     "criteria": {
       "fruits_of_the_field": "2025-04-30 21:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-04-30 22:06:35 +0000"
     },
     "done": true
   },
@@ -3369,6 +3393,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-04-30 22:01:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/lantern": {
     "criteria": {
       "has_torch": "2025-04-30 21:09:24 +0000"
@@ -4057,6 +4087,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-30 22:03:22 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_sign": {
     "criteria": {
       "has_stick": "2025-04-30 21:48:08 +0000"
@@ -4253,6 +4289,12 @@
   "mcdw:recipes/bows/bow_burst_gale_bow": {
     "criteria": {
       "has_string": "2025-04-30 21:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-04-30 22:09:26 +0000"
     },
     "done": true
   },
@@ -5049,6 +5091,12 @@
     },
     "done": true
   },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-04-30 22:05:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_ladder": {
     "criteria": {
       "has_stick": "2025-04-30 21:48:08 +0000"
@@ -5139,6 +5187,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-04-30 22:01:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2025-04-30 21:36:23 +0000"
@@ -5184,6 +5238,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-04-30 21:59:34 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-30 22:01:53 +0000"
     },
     "done": true
   },
@@ -5244,6 +5304,12 @@
   "betternether:recipes/building_blocks/whispering_gourd_lantern": {
     "criteria": {
       "has_torch": "2025-04-30 21:09:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-04-30 22:01:53 +0000"
     },
     "done": true
   },
@@ -6040,6 +6106,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
+    "criteria": {
+      "has_gunpowder": "2025-04-30 22:01:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
     "criteria": {
       "has_planks": "2025-04-30 21:46:36 +0000"
@@ -6247,6 +6319,12 @@
   "techreborn:recipes/centrifuge/brown_mushroom": {
     "criteria": {
       "has_brown_mushroom": "2025-04-30 21:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-30 22:01:53 +0000"
     },
     "done": true
   },

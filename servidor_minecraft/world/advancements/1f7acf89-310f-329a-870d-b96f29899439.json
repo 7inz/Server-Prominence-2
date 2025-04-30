@@ -1188,6 +1188,12 @@
     },
     "done": true
   },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-04-30 22:06:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-04-30 21:45:42 +0000"
@@ -1470,6 +1476,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-04-30 22:02:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-04-30 21:46:21 +0000"
@@ -1653,6 +1665,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-04-30 22:05:46 +0000"
     },
     "done": true
   },
@@ -2090,6 +2108,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2025-04-30 22:02:08 +0000",
       "bread": "2025-04-30 21:12:05 +0000",
       "melon_slice": "2025-04-30 21:51:03 +0000"
     },
@@ -2383,6 +2402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-30 22:03:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_container": {
     "criteria": {
       "has_base_block": "2025-04-30 21:59:34 +0000"
@@ -2530,6 +2555,12 @@
   "vinery:main/fruits_of_the_field": {
     "criteria": {
       "fruits_of_the_field": "2025-04-30 21:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-04-30 22:09:46 +0000"
     },
     "done": true
   },
@@ -3146,6 +3177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-30 22:03:18 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-04-30 21:45:42 +0000"
@@ -3549,6 +3586,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-04-30 22:07:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:36 +0000"
@@ -3675,6 +3718,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-04-30 22:04:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-04-30 22:00:15 +0000"
@@ -3741,6 +3790,12 @@
   "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
     "criteria": {
       "has_book": "2025-04-30 21:31:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-30 22:03:18 +0000"
     },
     "done": true
   },
@@ -4321,6 +4376,18 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-30 22:04:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/minecells/sign_post_putrid": {
+    "criteria": {
+      "has_planks": "2025-04-30 22:07:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_sign": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:36 +0000"
@@ -4590,6 +4657,12 @@
       "palm_log": "2025-04-30 21:45:35 +0000"
     },
     "done": false
+  },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-04-30 22:10:06 +0000"
+    },
+    "done": true
   },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
@@ -5603,6 +5676,12 @@
   "betternether:recipes/transportation/stalagnate_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-04-30 21:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-04-30 22:06:55 +0000"
     },
     "done": true
   },
@@ -6678,6 +6757,12 @@
   "betterend:recipes/decorations/pythadendron_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-04-30 22:05:46 +0000"
     },
     "done": true
   },

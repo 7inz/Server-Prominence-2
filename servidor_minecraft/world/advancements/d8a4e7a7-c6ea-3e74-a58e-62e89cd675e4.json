@@ -1214,6 +1214,12 @@
     },
     "done": true
   },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-04-30 22:07:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-04-30 21:45:03 +0000"
@@ -1409,6 +1415,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-04-30 21:36:38 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-04-30 22:00:42 +0000"
     },
     "done": true
   },
@@ -2114,6 +2126,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-04-30 22:08:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_sign": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
@@ -2787,6 +2805,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-30 22:04:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-04-30 21:31:19 +0000"
@@ -2886,6 +2910,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-30 21:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-04-30 22:02:26 +0000"
     },
     "done": true
   },
@@ -3147,6 +3177,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-30 22:06:04 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_chair": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
@@ -3324,6 +3360,12 @@
   "betterend:recipes/decorations/helix_tree_ladder": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-30 22:03:20 +0000"
     },
     "done": true
   },
@@ -4129,6 +4171,12 @@
   "mcda:recipes/crafting_items/fabric_bolt_light_blue": {
     "criteria": {
       "has_stick": "2025-04-30 21:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-04-30 22:07:08 +0000"
     },
     "done": true
   },
