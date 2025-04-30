@@ -1980,6 +1980,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-04-30 22:56:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-04-30 21:31:45 +0000"
@@ -2333,6 +2339,12 @@
       "in_water": "2025-04-30 21:28:16 +0000"
     },
     "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "silicon": "2025-04-30 22:56:05 +0000"
+    },
+    "done": false
   },
   "soulsweapons:root": {
     "criteria": {
