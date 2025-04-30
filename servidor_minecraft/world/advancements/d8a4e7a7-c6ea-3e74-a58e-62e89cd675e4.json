@@ -1,31 +1,7 @@
 {
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2025-04-30 20:55:22 +0000"
-    },
-    "done": true
-  },
   "spellbladenext:spellblades/root": {
     "criteria": {
       "always": "2025-04-30 20:53:16 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/wall_mushroom_brown": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
-    "criteria": {
-      "has_mushroom": "2025-04-30 20:54:01 +0000"
     },
     "done": true
   },
@@ -42,24 +18,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/campfire_toast": {
-    "criteria": {
-      "has_bread": "2025-04-30 20:53:17 +0000"
-    },
-    "done": true
-  },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-04-30 20:53:17 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-04-30 20:53:17 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/netherite_diamond_block": {
     "criteria": {
       "has_ingredients": "2025-04-30 20:53:16 +0000"
@@ -69,12 +27,6 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-04-30 20:53:16 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:temple_entry": {
-    "criteria": {
-      "in_better_desert_temple": "2025-04-30 20:53:54 +0000"
     },
     "done": true
   },
@@ -102,18 +54,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/cheeseburger": {
-    "criteria": {
-      "has_bread": "2025-04-30 20:53:17 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/toast_from_smoking_bread": {
-    "criteria": {
-      "has_bread": "2025-04-30 20:53:17 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-04-30 20:53:16 +0000"
@@ -126,29 +66,11 @@
     },
     "done": true
   },
-  "betternether:recipes/food/stalagnate_bowl_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-04-30 20:53:16 +0000"
     },
     "done": true
-  },
-  "botania:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_orig_recipe": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "saguaro_desert": "2025-04-30 20:53:17 +0000"
-    },
-    "done": false
   },
   "frostiful:recipes/combat/armor/ice_skates": {
     "criteria": {
@@ -170,35 +92,11 @@
     },
     "done": true
   },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "saguaro_desert": "2025-04-30 20:53:17 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-04-30 20:56:45 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/netherite_emerald_block": {
     "criteria": {
       "has_ingredients": "2025-04-30 20:53:16 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-04-30 20:57:20 +0000"
-    },
-    "done": false
   },
   "techreborn:recipes/distillation_tower/diesel": {
     "criteria": {
@@ -216,18 +114,6 @@
   "advancednetherite:recipes/netherite_gold_block": {
     "criteria": {
       "has_ingredients": "2025-04-30 20:53:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-30 20:54:01 +0000"
     },
     "done": true
   },
@@ -261,12 +147,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-04-30 20:56:45 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/vacuum_freezer/helium": {
     "criteria": {
       "has_heliumplasma": "2025-04-30 20:53:16 +0000"
@@ -285,27 +165,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/food/toast_from_bread": {
-    "criteria": {
-      "has_bread": "2025-04-30 20:53:17 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-30 20:53:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-30 20:54:01 +0000"
     },
     "done": true
   },
@@ -339,12 +201,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
-    "criteria": {
-      "has_mushroom": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
     "criteria": {
       "has_fur_armor": "2025-04-30 20:53:16 +0000"
@@ -360,12 +216,6 @@
   "advancednetherite:recipes/building_blocks/netherite_iron_block": {
     "criteria": {
       "has_the_recipe": "2025-04-30 20:53:16 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/bread": {
-    "criteria": {
-      "has_bread": "2025-04-30 20:53:17 +0000"
     },
     "done": true
   },
@@ -387,51 +237,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/double_axes/double_axe_cursed": {
-    "criteria": {
-      "has_rotten_flesh": "2025-04-30 20:56:45 +0000"
-    },
-    "done": true
-  },
   "seasonsextras:recipes/tinted_greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-04-30 20:53:16 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_14": {
-    "criteria": {
-      "has_alt_item": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_15": {
-    "criteria": {
-      "has_alt_item": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_10": {
-    "criteria": {
-      "has_alt_item": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_11": {
-    "criteria": {
-      "has_alt_item": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_12": {
-    "criteria": {
-      "has_alt_item": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mushroom_13": {
-    "criteria": {
-      "has_alt_item": "2025-04-30 20:54:01 +0000"
     },
     "done": true
   },
@@ -459,21 +267,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-30 20:56:45 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
     "criteria": {
       "has_the_recipe": "2025-04-30 20:53:16 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/crafting_items/glut_charm": {
-    "criteria": {
-      "has_rotten_flesh": "2025-04-30 20:56:45 +0000"
     },
     "done": true
   },
@@ -544,12 +340,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:husk": "2025-04-30 20:56:41 +0000"
-    },
-    "done": true
-  },
   "rpg_series:root": {
     "criteria": {
       "always": "2025-04-30 20:53:16 +0000"
@@ -580,13 +370,6 @@
       "has_nitrogen": "2025-04-30 20:53:16 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:husk": "2025-04-30 20:56:41 +0000",
-      "minecraft:zombie": "2025-04-30 20:58:49 +0000"
-    },
-    "done": false
   },
   "techreborn:recipes/chemical_reactor/water": {
     "criteria": {
@@ -664,9 +447,260 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "more_rpg_content:root": {
     "criteria": {
-      "killed_something": "2025-04-30 20:55:22 +0000"
+      "always": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-04-30 20:53:16 +0000",
+      "has_wpt": "2025-04-30 20:53:16 +0000",
+      "has_wct": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/air_conditioning": {
+    "criteria": {
+      "has_furnace": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/fusion_reactor/helium_plasma": {
+    "criteria": {
+      "has_helium3": "2025-04-30 20:53:16 +0000",
+      "has_deuterium": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/titanium_ingot": {
+    "criteria": {
+      "has_titanium_dust": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/fusion_reactor/helium3": {
+    "criteria": {
+      "has_tritium": "2025-04-30 20:53:16 +0000",
+      "has_deuterium": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
+    "criteria": {
+      "has_melon_slice": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/fusion_reactor/iridium_ore": {
+    "criteria": {
+      "has_lithium": "2025-04-30 20:53:16 +0000",
+      "has_wolframium": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 20:53:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2025-04-30 20:53:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-04-30 20:53:17 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-04-30 20:53:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2025-04-30 20:53:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2025-04-30 20:53:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "saguaro_desert": "2025-04-30 20:53:17 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "saguaro_desert": "2025-04-30 20:53:17 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2025-04-30 20:53:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/bread": {
+    "criteria": {
+      "has_bread": "2025-04-30 20:53:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-04-30 20:53:17 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-04-30 20:53:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_alt_item": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_alt_item": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_alt_item": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_alt_item": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_alt_item": "2025-04-30 20:54:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_alt_item": "2025-04-30 20:54:01 +0000"
     },
     "done": true
   },
@@ -730,55 +764,64 @@
     },
     "done": true
   },
-  "more_rpg_content:root": {
+  "techreborn:recipes/centrifuge/brown_mushroom": {
     "criteria": {
-      "always": "2025-04-30 20:53:16 +0000"
+      "has_brown_mushroom": "2025-04-30 20:54:01 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
+  "mutantmonsters:root": {
     "criteria": {
-      "has_the_recipe": "2025-04-30 20:53:16 +0000"
+      "killed_something": "2025-04-30 20:55:22 +0000"
     },
     "done": true
   },
-  "ae2wtlib:recipes/quantum_bridge_card": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_wit": "2025-04-30 20:53:16 +0000",
-      "has_wpt": "2025-04-30 20:53:16 +0000",
-      "has_wct": "2025-04-30 20:53:16 +0000"
+      "killed_something": "2025-04-30 20:55:22 +0000"
     },
     "done": true
   },
-  "regions_unexplored:parent": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "load_in_world": "2025-04-30 20:53:17 +0000"
+      "minecraft:husk": "2025-04-30 20:56:41 +0000"
     },
     "done": true
   },
-  "seasonsextras:recipes/air_conditioning": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "has_furnace": "2025-04-30 20:53:16 +0000"
+      "minecraft:husk": "2025-04-30 20:56:41 +0000",
+      "minecraft:zombie": "2025-04-30 20:58:49 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-30 20:56:45 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/fusion_reactor/helium_plasma": {
+  "techreborn:recipes/centrifuge/rotten_flesh": {
     "criteria": {
-      "has_helium3": "2025-04-30 20:53:16 +0000",
-      "has_deuterium": "2025-04-30 20:53:16 +0000"
+      "has_rotten_flesh": "2025-04-30 20:56:45 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/titanium_ingot": {
+  "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
-      "has_titanium_dust": "2025-04-30 20:53:16 +0000"
+      "has_rotten_flesh": "2025-04-30 20:56:45 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/fusion_reactor/helium3": {
+  "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
-      "has_tritium": "2025-04-30 20:53:16 +0000",
-      "has_deuterium": "2025-04-30 20:53:16 +0000"
+      "has_any_ingredient": "2025-04-30 20:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/glut_charm": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-30 20:56:45 +0000"
     },
     "done": true
   },
@@ -788,17 +831,11 @@
     },
     "done": true
   },
-  "lootr:root": {
+  "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "always_true": "2025-04-30 20:53:16 +0000"
+      "bread": "2025-04-30 20:57:20 +0000"
     },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
-    "criteria": {
-      "has_the_recipe": "2025-04-30 20:53:16 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -806,40 +843,27 @@
     },
     "done": true
   },
-  "the_bumblezone:wiki": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "instant_granted": "2025-04-30 20:53:16 +0000"
+      "has_golden_sword": "2025-04-30 21:07:25 +0000"
     },
     "done": true
   },
-  "brewery:main/root": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "seeds": "2025-04-30 20:53:16 +0000"
+      "has_item_frame": "2025-04-30 21:07:25 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
     "criteria": {
-      "has_melon_slice": "2025-04-30 20:53:16 +0000"
+      "has_golden_sword": "2025-04-30 21:07:25 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/fusion_reactor/iridium_ore": {
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
-      "has_lithium": "2025-04-30 20:53:16 +0000",
-      "has_wolframium": "2025-04-30 20:53:16 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/brown_mushroom": {
-    "criteria": {
-      "has_brown_mushroom": "2025-04-30 20:54:01 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_ingot": {
-    "criteria": {
-      "has_the_recipe": "2025-04-30 20:53:16 +0000"
+      "has_golden_sword": "2025-04-30 21:07:25 +0000"
     },
     "done": true
   },

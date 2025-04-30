@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "66f02f52-cd99-3c5d-a129-b5e4261517c2",
+    "name": "x_sergio_x",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1f7acf89-310f-329a-870d-b96f29899439",
+    "name": "Tyr4nz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d8a4e7a7-c6ea-3e74-a58e-62e89cd675e4",
+    "name": "critofto",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
