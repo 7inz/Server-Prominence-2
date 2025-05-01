@@ -7595,11 +7595,23 @@
     },
     "done": true
   },
-  "vinery:recipes/grass_slab": {
+  "techreborn:recipes/centrifuge/raw_tin": {
     "criteria": {
-      "has_grass_block": "2025-05-01 01:05:51 +0000"
+      "has_raw_tin_ores": "2025-05-01 00:52:26 +0000"
     },
     "done": true
+  },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-05-01 00:52:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:root": {
+    "criteria": {
+      "crit_1": "2025-05-01 00:52:26 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
@@ -7613,9 +7625,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-01 00:52:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
     "criteria": {
       "has_purple_lupine": "2025-05-01 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
+    "criteria": {
+      "has_pink_lupine": "2025-05-01 01:01:12 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-05-01 01:05:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-05-01 01:05:51 +0000"
     },
     "done": true
   },
@@ -7637,18 +7673,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/raw_tin": {
-    "criteria": {
-      "has_raw_tin_ores": "2025-05-01 00:52:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
-    "criteria": {
-      "has_pink_lupine": "2025-05-01 01:01:12 +0000"
-    },
-    "done": true
-  },
   "oxidized:recipes/copper_lantern": {
     "criteria": {
       "has_copper_block": "2025-05-01 01:23:31 +0000"
@@ -7667,33 +7691,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
-    "criteria": {
-      "has_tag_c_raw_tin_ores": "2025-05-01 00:52:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/grass_block": {
-    "criteria": {
-      "has_grass_block": "2025-05-01 01:05:51 +0000"
-    },
-    "done": true
-  },
-  "techreborn:root": {
-    "criteria": {
-      "crit_1": "2025-05-01 00:52:26 +0000"
-    },
-    "done": false
-  },
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2025-05-01 01:23:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-05-01 00:52:38 +0000"
     },
     "done": true
   },
