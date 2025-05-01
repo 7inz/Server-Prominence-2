@@ -571,6 +571,7 @@
       "redstone_caves": "2025-05-01 12:04:41 +0000",
       "scorching_caves": "2025-05-01 12:13:09 +0000",
       "highland_fields": "2025-05-01 12:23:47 +0000",
+      "frozen_pine_taiga": "2025-05-01 13:21:02 +0000",
       "tropical_river": "2025-04-30 21:46:35 +0000",
       "outback": "2025-04-30 21:48:55 +0000",
       "deciduous_forest": "2025-04-30 21:52:50 +0000",
@@ -587,6 +588,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "highland_fields": "2025-05-01 12:23:47 +0000",
+      "frozen_pine_taiga": "2025-05-01 13:21:02 +0000",
       "tropical_river": "2025-04-30 21:46:35 +0000",
       "outback": "2025-04-30 21:48:55 +0000",
       "deciduous_forest": "2025-04-30 21:52:50 +0000",
@@ -8019,6 +8021,12 @@
     },
     "done": true
   },
+  "frostiful:adventure/find_frostologer_castle": {
+    "criteria": {
+      "castle": "2025-05-01 13:21:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-01 12:45:33 +0000"
@@ -8490,6 +8498,12 @@
   "botania:recipes/tools/dodge_ring": {
     "criteria": {
       "has_item": "2025-05-01 12:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-01 13:23:14 +0000"
     },
     "done": true
   },
@@ -9096,6 +9110,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-01 12:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-01 13:23:14 +0000"
     },
     "done": true
   },

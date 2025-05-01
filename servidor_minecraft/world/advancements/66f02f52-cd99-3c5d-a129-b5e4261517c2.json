@@ -585,6 +585,7 @@
       "redstone_caves": "2025-05-01 12:08:02 +0000",
       "scorching_caves": "2025-05-01 12:13:35 +0000",
       "blackwood_taiga": "2025-05-01 12:25:27 +0000",
+      "frozen_pine_taiga": "2025-05-01 13:21:48 +0000",
       "maple_forest": "2025-05-01 12:41:12 +0000",
       "tropical_river": "2025-04-30 21:46:01 +0000",
       "magnolia_highlands": "2025-05-01 00:54:42 +0000",
@@ -605,6 +606,7 @@
       "shrubland": "2025-05-01 00:56:31 +0000",
       "willow_forest": "2025-05-01 00:54:27 +0000",
       "blackwood_taiga": "2025-05-01 12:25:27 +0000",
+      "frozen_pine_taiga": "2025-05-01 13:21:48 +0000",
       "maple_forest": "2025-05-01 12:41:12 +0000",
       "tropical_river": "2025-04-30 21:46:01 +0000",
       "magnolia_highlands": "2025-05-01 00:54:42 +0000",
@@ -715,6 +717,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-30 20:58:13 +0000",
+      "suspicious_stew": "2025-05-01 13:18:57 +0000",
       "carrot": "2025-04-30 21:33:45 +0000"
     },
     "done": false
@@ -2869,12 +2872,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-01 12:41:48 +0000",
+      "minecraft:frozen_river": "2025-05-01 13:24:07 +0000",
       "minecraft:beach": "2025-04-30 21:55:24 +0000",
       "minecraft:mangrove_swamp": "2025-04-30 21:47:49 +0000",
       "minecraft:sparse_jungle": "2025-04-30 21:50:52 +0000",
       "minecraft:lukewarm_ocean": "2025-04-30 21:50:19 +0000",
       "minecraft:river": "2025-04-30 21:53:33 +0000",
       "minecraft:snowy_plains": "2025-05-01 12:46:40 +0000",
+      "minecraft:snowy_taiga": "2025-05-01 13:24:39 +0000",
       "minecraft:forest": "2025-04-30 22:49:51 +0000",
       "minecraft:desert": "2025-04-30 21:44:29 +0000",
       "minecraft:warm_ocean": "2025-04-30 21:50:11 +0000",
@@ -9356,6 +9361,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 13:16:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-05-01 13:03:41 +0000"
@@ -9464,6 +9475,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-01 13:16:40 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-05-01 13:03:41 +0000"
@@ -9497,6 +9514,18 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 12:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 13:16:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-01 13:18:57 +0000"
     },
     "done": true
   },
@@ -9596,6 +9625,18 @@
     },
     "done": true
   },
+  "frostiful:adventure/find_frostologer_castle": {
+    "criteria": {
+      "castle": "2025-05-01 13:21:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-01 13:16:40 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-05-01 12:30:39 +0000"
@@ -9611,6 +9652,12 @@
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-05-01 13:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 13:16:40 +0000"
     },
     "done": true
   },
@@ -9662,6 +9709,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-05-01 13:16:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 12:21:24 +0000"
@@ -9689,6 +9742,12 @@
   "mcda:recipes/base_armors/mercenary_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-05-01 13:03:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-01 13:18:57 +0000"
     },
     "done": true
   },
@@ -9884,6 +9943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 13:16:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-05-01 12:32:02 +0000"
@@ -9911,6 +9976,18 @@
   "mcdw:recipes/hammers/hammer_mace": {
     "criteria": {
       "has_iron_block": "2025-05-01 12:30:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 13:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 13:16:40 +0000"
     },
     "done": true
   },
@@ -9980,6 +10057,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-01 13:16:40 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/sting": {
     "criteria": {
       "has_item": "2025-05-01 12:20:17 +0000"
@@ -10028,6 +10111,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-01 13:16:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-05-01 12:32:02 +0000"
@@ -10064,6 +10153,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
+    "criteria": {
+      "has_bowl": "2025-05-01 13:18:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "has_sugar": "2025-05-01 13:03:08 +0000"
@@ -10091,6 +10186,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:21:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-05-01 13:18:57 +0000"
     },
     "done": true
   },
@@ -10202,9 +10303,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 13:16:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-01 12:30:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-01 13:16:40 +0000"
     },
     "done": true
   },
@@ -10310,6 +10423,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2025-05-01 13:18:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:21:24 +0000"
@@ -10364,6 +10483,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-05-01 13:18:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/lsu_storage": {
     "criteria": {
       "has_electronic_circuit": "2025-05-01 12:45:23 +0000"
@@ -10385,6 +10510,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-05-01 12:31:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 13:16:40 +0000"
     },
     "done": true
   },
@@ -10418,6 +10549,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-01 13:18:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-01 12:43:26 +0000"
@@ -10433,6 +10570,18 @@
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_sugar": "2025-05-01 13:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-01 13:16:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-01 13:16:40 +0000"
     },
     "done": true
   },
@@ -10589,6 +10738,12 @@
   "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:21:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
+    "criteria": {
+      "has_item": "2025-05-01 13:16:40 +0000"
     },
     "done": true
   },
