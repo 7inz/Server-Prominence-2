@@ -678,9 +678,11 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-30 22:42:42 +0000",
       "minecraft:spider": "2025-04-30 20:57:40 +0000",
+      "minecraft:creeper": "2025-05-01 01:44:40 +0000",
       "minecraft:husk": "2025-04-30 20:56:30 +0000",
       "minecraft:enderman": "2025-04-30 22:43:53 +0000",
-      "minecraft:zombie": "2025-04-30 22:45:10 +0000"
+      "minecraft:zombie": "2025-04-30 22:45:10 +0000",
+      "minecraft:zombie_villager": "2025-05-01 01:45:13 +0000"
     },
     "done": false
   },
@@ -8594,6 +8596,48 @@
   "techreborn:recipes/misc/crafting_table/dust/dark_ashes_dust_from_small": {
     "criteria": {
       "has_dark_ashes_small_dust": "2025-05-01 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunters_promise": {
+    "criteria": {
+      "has_feather": "2025-05-01 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/smoking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-05-01 01:46:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-01 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/campfire_cooking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-05-01 01:46:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2025-05-01 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-05-01 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-01 01:48:43 +0000"
     },
     "done": true
   },
