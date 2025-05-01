@@ -7697,6 +7697,18 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-01 11:38:47 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:whisperwind": {
+    "criteria": {
+      "requirement": "2025-05-01 11:34:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-01 11:31:03 +0000"
@@ -7757,6 +7769,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-01 11:32:38 +0000"
+    },
+    "done": true
+  },
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2025-05-01 11:31:03 +0000"
@@ -7780,6 +7798,12 @@
       "dark_moon_greatsword": "2025-05-01 11:31:18 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2025-05-01 11:38:47 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
