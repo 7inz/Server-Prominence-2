@@ -8177,6 +8177,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
+    "criteria": {
+      "has_iron_furnace": "2025-05-01 12:56:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-05-01 12:25:22 +0000"
@@ -8192,6 +8198,12 @@
   "handcrafted:recipes/misc/birch_nightstand": {
     "criteria": {
       "has_birch_nightstand": "2025-05-01 12:53:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/zinc_plate": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -8264,6 +8276,12 @@
   "handcrafted:recipes/misc/birch_counter": {
     "criteria": {
       "has_birch_counter": "2025-05-01 12:53:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_iron_furnace": "2025-05-01 12:56:22 +0000"
     },
     "done": true
   },
@@ -8363,6 +8381,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/obsidian_plate_from_block": {
     "criteria": {
       "has_obsidian": "2025-05-01 12:25:20 +0000"
@@ -8417,9 +8441,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_slab": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_azure_seeker": {
     "criteria": {
       "has_string": "2025-05-01 12:45:18 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -8513,6 +8549,18 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_byte": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-05-01 12:34:15 +0000"
@@ -8531,6 +8579,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_stairs": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-01 12:25:22 +0000"
@@ -8540,6 +8594,12 @@
   "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -8585,9 +8645,27 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_layer": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slope": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-05-01 12:34:15 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -8615,9 +8693,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_light_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -8660,6 +8750,18 @@
   "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
     "criteria": {
       "has_sapphire_gem": "2025-05-01 12:31:44 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_stone_button": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/zinc_dust": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -8813,15 +8915,33 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_ladder": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2025-05-01 12:53:31 +0000"
     },
     "done": true
   },
+  "techreborn:ironfurnace": {
+    "criteria": {
+      "crit_0": "2025-05-01 12:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-01 12:45:18 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_board": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -8840,6 +8960,12 @@
   "techreborn:recipes/misc/crafting_table/armor/peridot_helmet": {
     "criteria": {
       "has_peridot_gem": "2025-05-01 12:31:44 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_fence": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -8888,6 +9014,12 @@
   "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
     "criteria": {
       "has_peridot_gem": "2025-05-01 12:31:44 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_beam": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -8945,6 +9077,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
@@ -8969,9 +9107,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_half_panel": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-05-01 12:50:53 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_block": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -8984,6 +9134,12 @@
   "mcdw:recipes/shortbows/bow_shortbow": {
     "criteria": {
       "has_string": "2025-05-01 12:45:18 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_stairs": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -9023,6 +9179,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_slice": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
@@ -9035,6 +9197,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_slice": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
@@ -9044,6 +9212,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 12:32:05 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wall": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -9065,9 +9239,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_door": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/longbows/bow_longbow": {
     "criteria": {
       "has_string": "2025-05-01 12:45:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:42 +0000"
     },
     "done": true
   },
@@ -9134,6 +9320,12 @@
   "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
     "criteria": {
       "has_peridot_gem": "2025-05-01 12:31:44 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_fence_gate": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -9206,6 +9398,12 @@
   "mcdw:recipes/crossbows/crossbow_soul": {
     "criteria": {
       "has_string": "2025-05-01 12:45:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -9287,6 +9485,18 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_shaft": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_bud": {
     "criteria": {
       "has_redstone": "2025-05-01 12:34:15 +0000"
@@ -9359,6 +9569,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
@@ -9389,6 +9605,18 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_slope": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-05-01 12:34:15 +0000"
@@ -9410,6 +9638,12 @@
   "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
     "criteria": {
       "has_furnace": "2025-05-01 12:43:52 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wooden_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -9575,6 +9809,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-05-01 12:53:31 +0000"
@@ -9629,6 +9869,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_stone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_pulsar": {
     "criteria": {
       "has_copper_block": "2025-05-01 12:34:15 +0000"
@@ -9653,6 +9899,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_ghost_block": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
     "criteria": {
       "has_raw_lead": "2025-05-01 12:37:34 +0000"
@@ -9674,6 +9926,12 @@
   "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -9710,6 +9968,12 @@
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-05-01 12:50:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
@@ -9782,6 +10046,12 @@
   "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_half_layer": {
+    "criteria": {
+      "has_item": "2025-05-01 12:56:54 +0000"
     },
     "done": true
   },
