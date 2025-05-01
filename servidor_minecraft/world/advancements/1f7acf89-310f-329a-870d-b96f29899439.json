@@ -3656,6 +3656,7 @@
       "minecraft:grove": "2025-05-01 00:58:45 +0000",
       "minecraft:forest": "2025-04-30 22:50:15 +0000",
       "minecraft:desert": "2025-04-30 21:44:24 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-01 14:00:59 +0000",
       "minecraft:warm_ocean": "2025-04-30 21:49:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-30 21:50:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 00:58:39 +0000",
@@ -10276,6 +10277,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_hopper": "2025-05-01 14:10:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-05-01 13:28:01 +0000"
@@ -10372,6 +10379,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-05-01 14:08:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-01 13:58:49 +0000"
@@ -10405,6 +10418,12 @@
   "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-05-01 13:58:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:08:40 +0000"
     },
     "done": true
   },
@@ -10642,6 +10661,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-05-01 14:08:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:08:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-01 13:17:33 +0000"
@@ -10672,6 +10703,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:08:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2025-05-01 13:37:16 +0000"
@@ -10699,6 +10736,12 @@
   "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-01 13:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-01 14:08:40 +0000"
     },
     "done": true
   },
@@ -10777,6 +10820,12 @@
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-05-01 13:45:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:08:40 +0000"
     },
     "done": true
   },
@@ -10894,6 +10943,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/block_breaker": {
+    "criteria": {
+      "has_hopper": "2025-05-01 14:10:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-05-01 13:28:01 +0000"
@@ -10930,6 +10985,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-05-01 14:08:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/block_placer": {
     "criteria": {
       "has_piston": "2025-05-01 13:48:00 +0000"
@@ -10945,6 +11006,12 @@
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-05-01 13:58:11 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-05-01 14:00:59 +0000"
     },
     "done": true
   },
@@ -11065,6 +11132,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-05-01 13:18:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:08:40 +0000"
     },
     "done": true
   },

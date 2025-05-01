@@ -598,6 +598,7 @@
       "grassland": "2025-04-30 21:50:56 +0000",
       "prairie": "2025-04-30 21:56:34 +0000",
       "redwoods": "2025-04-30 22:31:18 +0000",
+      "hyacinth_deeps": "2025-05-01 14:01:35 +0000",
       "lupine_plains": "2025-05-01 00:59:26 +0000"
     },
     "done": false
@@ -620,6 +621,7 @@
       "grassland": "2025-04-30 21:50:56 +0000",
       "prairie": "2025-04-30 21:56:34 +0000",
       "redwoods": "2025-04-30 22:31:18 +0000",
+      "hyacinth_deeps": "2025-05-01 14:01:35 +0000",
       "lupine_plains": "2025-05-01 00:59:26 +0000"
     },
     "done": false
@@ -2885,6 +2887,7 @@
       "minecraft:forest": "2025-04-30 22:49:51 +0000",
       "minecraft:frozen_ocean": "2025-05-01 13:59:37 +0000",
       "minecraft:desert": "2025-04-30 21:44:29 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-01 14:00:57 +0000",
       "minecraft:snowy_beach": "2025-05-01 13:58:21 +0000",
       "minecraft:warm_ocean": "2025-04-30 21:50:11 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-30 21:50:25 +0000",
@@ -9346,6 +9349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-01 14:03:35 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_pressure_plate": {
     "criteria": {
       "has_pine_planks": "2025-05-01 13:31:11 +0000"
@@ -9743,6 +9752,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-01 14:02:28 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-05-01 13:16:40 +0000"
@@ -9824,6 +9839,12 @@
   "travelersbackpack:recipes/misc/horse_smithing": {
     "criteria": {
       "has_horse": "2025-05-01 13:16:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-01 14:02:28 +0000"
     },
     "done": true
   },
@@ -9950,6 +9971,12 @@
   "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
     "criteria": {
       "has_blue_ice": "2025-05-01 13:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-01 14:03:35 +0000"
     },
     "done": true
   },
@@ -10121,6 +10148,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-01 14:03:35 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2025-05-01 12:42:25 +0000"
@@ -10136,6 +10169,12 @@
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-01 12:43:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2025-05-01 14:02:28 +0000"
     },
     "done": true
   },
@@ -10421,6 +10460,18 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-05-01 14:00:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/advanced_alloy_storage_block": {
+    "criteria": {
+      "has_advanced_alloy_ingot": "2025-05-01 14:02:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-05-01 13:35:35 +0000"
@@ -10532,6 +10583,12 @@
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-05-01 13:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-01 14:03:35 +0000"
     },
     "done": true
   },
@@ -11051,6 +11108,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/advanced_alloy_plate": {
+    "criteria": {
+      "has_tag_c_advanced_alloy_ingots": "2025-05-01 14:02:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:21:24 +0000"
@@ -11072,6 +11135,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-01 12:42:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 14:03:35 +0000"
     },
     "done": true
   },
@@ -11240,6 +11309,12 @@
   "betternether:recipes/transportation/detector_rail": {
     "criteria": {
       "has_redstone": "2025-05-01 13:02:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-01 14:02:28 +0000"
     },
     "done": true
   },
