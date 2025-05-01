@@ -580,27 +580,37 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-05-01 00:56:31 +0000",
+      "willow_forest": "2025-05-01 00:54:27 +0000",
       "tropical_river": "2025-04-30 21:46:01 +0000",
+      "magnolia_highlands": "2025-05-01 00:54:42 +0000",
       "outback": "2025-04-30 21:49:08 +0000",
       "deciduous_forest": "2025-04-30 21:53:35 +0000",
       "chalk_cliffs": "2025-04-30 22:32:06 +0000",
       "saguaro_desert": "2025-04-30 20:44:24 +0000",
+      "temperate_grove": "2025-05-01 00:54:25 +0000",
       "grassland": "2025-04-30 21:50:56 +0000",
       "prairie": "2025-04-30 21:56:34 +0000",
-      "redwoods": "2025-04-30 22:31:18 +0000"
+      "redwoods": "2025-04-30 22:31:18 +0000",
+      "lupine_plains": "2025-05-01 00:59:26 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-05-01 00:56:31 +0000",
+      "willow_forest": "2025-05-01 00:54:27 +0000",
       "tropical_river": "2025-04-30 21:46:01 +0000",
+      "magnolia_highlands": "2025-05-01 00:54:42 +0000",
       "outback": "2025-04-30 21:49:08 +0000",
       "deciduous_forest": "2025-04-30 21:53:35 +0000",
       "chalk_cliffs": "2025-04-30 22:32:06 +0000",
       "saguaro_desert": "2025-04-30 20:44:24 +0000",
+      "temperate_grove": "2025-05-01 00:54:25 +0000",
       "grassland": "2025-04-30 21:50:56 +0000",
       "prairie": "2025-04-30 21:56:34 +0000",
-      "redwoods": "2025-04-30 22:31:18 +0000"
+      "redwoods": "2025-04-30 22:31:18 +0000",
+      "lupine_plains": "2025-05-01 00:59:26 +0000"
     },
     "done": false
   },
@@ -7497,6 +7507,36 @@
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-04-30 22:57:57 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
+    "criteria": {
+      "has_pink_lupine": "2025-05-01 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_red_lupine": {
+    "criteria": {
+      "has_red_lupine": "2025-05-01 01:02:49 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/red_coffin": {
+    "criteria": {
+      "has_item": "2025-05-01 01:03:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_bed": {
+    "criteria": {
+      "has_bed": "2025-05-01 01:03:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-05-01 01:02:47 +0000"
     },
     "done": true
   },

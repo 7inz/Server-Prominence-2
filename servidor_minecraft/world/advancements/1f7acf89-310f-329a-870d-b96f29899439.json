@@ -580,25 +580,37 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-05-01 00:56:03 +0000",
+      "willow_forest": "2025-05-01 00:55:48 +0000",
+      "highland_fields": "2025-05-01 00:55:47 +0000",
       "tropical_river": "2025-04-30 21:45:01 +0000",
+      "magnolia_highlands": "2025-05-01 00:55:40 +0000",
       "deciduous_forest": "2025-04-30 21:52:50 +0000",
       "chalk_cliffs": "2025-04-30 21:55:50 +0000",
+      "bamboo_forest": "2025-05-01 00:55:41 +0000",
       "saguaro_desert": "2025-04-30 20:53:17 +0000",
       "grassland": "2025-04-30 21:52:18 +0000",
       "prairie": "2025-04-30 21:55:55 +0000",
-      "redwoods": "2025-04-30 22:31:17 +0000"
+      "redwoods": "2025-04-30 22:31:17 +0000",
+      "lupine_plains": "2025-05-01 00:58:47 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-05-01 00:56:03 +0000",
+      "willow_forest": "2025-05-01 00:55:48 +0000",
+      "highland_fields": "2025-05-01 00:55:47 +0000",
       "tropical_river": "2025-04-30 21:45:01 +0000",
+      "magnolia_highlands": "2025-05-01 00:55:40 +0000",
       "deciduous_forest": "2025-04-30 21:52:50 +0000",
       "chalk_cliffs": "2025-04-30 21:55:50 +0000",
+      "bamboo_forest": "2025-05-01 00:55:41 +0000",
       "saguaro_desert": "2025-04-30 20:53:17 +0000",
       "grassland": "2025-04-30 21:52:18 +0000",
       "prairie": "2025-04-30 21:55:55 +0000",
-      "redwoods": "2025-04-30 22:31:17 +0000"
+      "redwoods": "2025-04-30 22:31:17 +0000",
+      "lupine_plains": "2025-05-01 00:58:47 +0000"
     },
     "done": false
   },
@@ -3623,15 +3635,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-01 00:58:11 +0000",
+      "minecraft:savanna_plateau": "2025-05-01 00:55:00 +0000",
       "minecraft:beach": "2025-04-30 21:53:26 +0000",
+      "minecraft:stony_peaks": "2025-05-01 00:55:10 +0000",
       "minecraft:mangrove_swamp": "2025-04-30 21:47:47 +0000",
       "minecraft:sparse_jungle": "2025-04-30 21:50:52 +0000",
       "minecraft:lukewarm_ocean": "2025-04-30 21:50:19 +0000",
       "minecraft:river": "2025-04-30 21:52:53 +0000",
+      "minecraft:grove": "2025-05-01 00:58:45 +0000",
       "minecraft:forest": "2025-04-30 22:50:15 +0000",
       "minecraft:desert": "2025-04-30 21:44:24 +0000",
       "minecraft:warm_ocean": "2025-04-30 21:49:21 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-30 21:50:24 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-01 00:58:39 +0000",
+      "minecraft:meadow": "2025-05-01 00:56:59 +0000",
       "minecraft:savanna": "2025-04-30 21:52:16 +0000",
       "minecraft:plains": "2025-04-30 21:51:02 +0000"
     },
@@ -7588,9 +7606,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2025-05-01 00:59:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_tin": {
     "criteria": {
       "has_raw_tin_ores": "2025-05-01 00:52:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
+    "criteria": {
+      "has_pink_lupine": "2025-05-01 01:01:12 +0000"
     },
     "done": true
   },
