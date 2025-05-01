@@ -8599,6 +8599,12 @@
     },
     "done": true
   },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-05-01 02:10:49 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_hunters_promise": {
     "criteria": {
       "has_feather": "2025-05-01 01:46:31 +0000"
@@ -8614,6 +8620,12 @@
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-05-01 01:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecells:insufferable_crypt": {
+    "criteria": {
+      "requirement": "2025-05-01 02:10:55 +0000"
     },
     "done": true
   },
