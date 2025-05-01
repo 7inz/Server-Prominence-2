@@ -582,6 +582,7 @@
     "criteria": {
       "shrubland": "2025-05-01 00:56:03 +0000",
       "willow_forest": "2025-05-01 00:55:48 +0000",
+      "scorching_caves": "2025-05-01 12:39:55 +0000",
       "highland_fields": "2025-05-01 00:55:47 +0000",
       "tropical_river": "2025-04-30 21:45:01 +0000",
       "magnolia_highlands": "2025-05-01 00:55:40 +0000",
@@ -652,6 +653,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-01 12:37:08 +0000",
       "minecraft:spider": "2025-05-01 01:05:17 +0000",
       "minecraft:creeper": "2025-05-01 12:32:27 +0000",
       "minecraft:husk": "2025-04-30 21:07:15 +0000",
@@ -8175,6 +8177,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-05-01 12:44:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 12:32:05 +0000"
@@ -8190,6 +8198,12 @@
   "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
     "criteria": {
       "has_ruby_gem": "2025-05-01 12:33:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-05-01 12:35:13 +0000"
     },
     "done": true
   },
@@ -8310,6 +8324,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 12:32:05 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-05-01 12:43:52 +0000"
     },
     "done": true
   },
@@ -8436,6 +8456,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2025-05-01 12:37:34 +0000"
     },
     "done": true
   },
@@ -8619,9 +8645,21 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2025-05-01 12:39:55 +0000"
+    },
+    "done": false
+  },
   "ae2:recipes/misc/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-05-01 12:34:15 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-05-01 12:43:52 +0000"
     },
     "done": true
   },
@@ -8709,9 +8747,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-01 12:43:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-05-01 12:35:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
     "criteria": {
       "has_peridot_gem": "2025-05-01 12:31:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
+    "criteria": {
+      "has_furnace": "2025-05-01 12:43:52 +0000"
     },
     "done": true
   },
@@ -8730,6 +8786,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-05-01 12:37:34 +0000"
     },
     "done": true
   },
@@ -8793,6 +8855,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
+    "criteria": {
+      "has_tag_c_redstone_ores": "2025-05-01 12:35:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/gunpowder_from_tnt": {
     "criteria": {
       "has_tnt": "2025-05-01 12:30:47 +0000"
@@ -8832,6 +8900,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-05-01 12:34:15 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2025-05-01 12:43:52 +0000"
     },
     "done": true
   },
@@ -8901,6 +8975,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2025-05-01 12:43:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 12:32:05 +0000"
@@ -8916,6 +8996,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-05-01 12:37:34 +0000"
     },
     "done": true
   },
@@ -9066,6 +9152,12 @@
   "stoneworks:recipes/building_blocks/andesite_brick_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:32:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-05-01 12:37:34 +0000"
     },
     "done": true
   },
