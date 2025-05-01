@@ -652,6 +652,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-05-01 01:05:17 +0000",
       "minecraft:husk": "2025-04-30 21:07:15 +0000",
       "minecraft:zombie": "2025-05-01 00:50:33 +0000"
     },
@@ -7594,6 +7595,12 @@
     },
     "done": true
   },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-05-01 01:05:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2025-05-01 00:52:38 +0000"
@@ -7627,6 +7634,12 @@
   "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
     "criteria": {
       "has_tag_c_raw_tin_ores": "2025-05-01 00:52:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-05-01 01:05:51 +0000"
     },
     "done": true
   },
