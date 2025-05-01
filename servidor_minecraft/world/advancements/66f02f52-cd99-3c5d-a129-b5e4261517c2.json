@@ -720,6 +720,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-05-01 14:45:03 +0000",
       "bread": "2025-04-30 20:58:13 +0000",
       "suspicious_stew": "2025-05-01 13:18:57 +0000",
       "carrot": "2025-04-30 21:33:45 +0000"
