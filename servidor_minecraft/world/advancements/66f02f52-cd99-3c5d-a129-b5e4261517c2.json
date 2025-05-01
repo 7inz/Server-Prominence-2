@@ -2872,6 +2872,7 @@
       "minecraft:sparse_jungle": "2025-04-30 21:50:52 +0000",
       "minecraft:lukewarm_ocean": "2025-04-30 21:50:19 +0000",
       "minecraft:river": "2025-04-30 21:53:33 +0000",
+      "minecraft:snowy_plains": "2025-05-01 12:46:40 +0000",
       "minecraft:forest": "2025-04-30 22:49:51 +0000",
       "minecraft:desert": "2025-04-30 21:44:29 +0000",
       "minecraft:warm_ocean": "2025-04-30 21:50:11 +0000",
@@ -9268,6 +9269,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_electronic_circuit": "2025-05-01 12:45:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:21:24 +0000"
@@ -9277,6 +9284,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-01 12:42:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/basic_display": {
+    "criteria": {
+      "has_electronic_circuit": "2025-05-01 12:45:23 +0000"
     },
     "done": true
   },
@@ -9652,6 +9665,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
+    "criteria": {
+      "has_electronic_circuit": "2025-05-01 12:45:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-01 12:31:12 +0000"
@@ -9856,9 +9875,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/advanced_circuit": {
+    "criteria": {
+      "has_electronic_circuit": "2025-05-01 12:45:23 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2025-05-01 12:42:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_electronic_circuit": "2025-05-01 12:45:23 +0000"
     },
     "done": true
   },
@@ -9964,6 +9995,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/frequency_transmitter": {
+    "criteria": {
+      "has_circuit": "2025-05-01 12:45:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
     "criteria": {
       "has_diamond_shovel": "2025-05-01 12:31:07 +0000"
@@ -9979,6 +10016,12 @@
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 12:21:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/data_storage_core": {
+    "criteria": {
+      "has_electronic_circuit": "2025-05-01 12:45:23 +0000"
     },
     "done": true
   },
