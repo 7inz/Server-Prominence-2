@@ -582,6 +582,7 @@
     "criteria": {
       "shrubland": "2025-05-01 00:56:31 +0000",
       "willow_forest": "2025-05-01 00:54:27 +0000",
+      "redstone_caves": "2025-05-01 12:08:02 +0000",
       "tropical_river": "2025-04-30 21:46:01 +0000",
       "magnolia_highlands": "2025-05-01 00:54:42 +0000",
       "outback": "2025-04-30 21:49:08 +0000",
@@ -8659,6 +8660,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-01 12:09:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2025-05-01 12:05:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_nightstand": {
     "criteria": {
       "has_birch_nightstand": "2025-05-01 11:51:18 +0000"
@@ -8677,6 +8690,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2025-05-01 11:51:04 +0000"
@@ -8689,9 +8708,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-01 11:50:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-05-01 12:08:07 +0000"
     },
     "done": true
   },
@@ -8701,9 +8732,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-05-01 12:05:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_desk": {
     "criteria": {
       "has_birch_desk": "2025-05-01 11:51:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
     },
     "done": true
   },
@@ -8731,9 +8780,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/salt_block": {
+    "criteria": {
+      "has_item": "2025-05-01 12:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-01 12:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-01 11:51:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
     },
     "done": true
   },
@@ -8743,9 +8822,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2025-05-01 12:11:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2025-05-01 11:51:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
     },
     "done": true
   },
@@ -8755,9 +8864,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_galena_ores": "2025-05-01 12:09:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-05-01 12:08:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
     "criteria": {
       "has_diamond_pickaxe": "2025-05-01 11:52:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
     },
     "done": true
   },
@@ -8785,6 +8912,24 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-01 12:10:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-01 12:09:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-01 12:10:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-05-01 11:51:18 +0000"
@@ -8797,17 +8942,107 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-05-01 11:51:18 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2025-05-01 12:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-01 12:10:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-05-01 12:08:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-05-01 12:08:02 +0000"
+    },
+    "done": false
+  },
   "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
     "criteria": {
       "has_plank": "2025-05-01 11:51:18 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-01 12:09:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-05-01 12:08:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-05-01 12:11:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
+    "criteria": {
+      "has_tag_c_redstone_ores": "2025-05-01 12:08:07 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-01 12:10:41 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
@@ -8824,6 +9059,12 @@
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-05-01 11:51:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-05-01 12:08:41 +0000"
     },
     "done": true
   },
@@ -8851,6 +9092,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-01 12:10:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-05-01 12:11:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-05-01 12:05:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-05-01 11:51:18 +0000"
@@ -8866,6 +9125,25 @@
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-05-01 11:51:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:root": {
+    "criteria": {
+      "crit_1": "2025-05-01 12:05:13 +0000",
+      "crit_0": "2025-05-01 12:09:22 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-05-01 12:10:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-05-01 12:11:17 +0000"
     },
     "done": true
   },
@@ -8890,6 +9168,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-01 11:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-01 12:10:23 +0000"
     },
     "done": true
   },

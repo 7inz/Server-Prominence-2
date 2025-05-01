@@ -7697,66 +7697,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/birch_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-01 11:46:00 +0000"
-    },
-    "done": true
-  },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2025-05-01 11:50:20 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/bucket_from_water_bucket": {
-    "criteria": {
-      "has_water_bucket": "2025-05-01 11:56:20 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-01 11:46:00 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/flower_bag": {
-    "criteria": {
-      "has_item": "2025-05-01 11:50:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-05-01 11:38:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-01 11:50:25 +0000"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2025-05-01 11:50:20 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:whisperwind": {
-    "criteria": {
-      "requirement": "2025-05-01 11:34:21 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
-    "criteria": {
-      "has_water_bucket": "2025-05-01 11:56:20 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-01 11:31:03 +0000"
@@ -7769,51 +7709,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/burrito": {
-    "criteria": {
-      "has_the_recipe": "2025-05-01 11:50:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
-    "criteria": {
-      "has_iron_shovel": "2025-05-01 11:49:48 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
-    "criteria": {
-      "has_core_specification_item": "2025-05-01 11:56:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-05-01 11:50:25 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2025-05-01 11:50:20 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/hamburger": {
-    "criteria": {
-      "has_beef": "2025-05-01 11:50:25 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
     "criteria": {
       "has_tag_minecraft_wooden_slabs": "2025-05-01 11:31:03 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/stuffed_poblanos": {
-    "criteria": {
-      "has_beef": "2025-05-01 11:50:25 +0000"
     },
     "done": true
   },
@@ -7835,63 +7733,9 @@
     },
     "done": true
   },
-  "botania:main/flower_pickup": {
-    "criteria": {
-      "flower": "2025-05-01 11:50:20 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-05-01 11:31:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2025-05-01 11:50:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/beef_jerky": {
-    "criteria": {
-      "has_beef": "2025-05-01 11:50:25 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:all_moonlight_weapons": {
-    "criteria": {
-      "dark_moon_greatsword": "2025-05-01 11:31:18 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/pork_jerky": {
-    "criteria": {
-      "has_the_recipe": "2025-05-01 11:50:25 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-01 11:46:00 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-01 11:46:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
-    "criteria": {
-      "has_yellow_lupine": "2025-05-01 11:50:18 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/red_dye_from_red_lupine": {
-    "criteria": {
-      "has_red_lupine": "2025-05-01 11:58:41 +0000"
     },
     "done": true
   },
@@ -7901,63 +7745,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/shadow_berry_jelly": {
-    "criteria": {
-      "has_tag_c_water_bottles": "2025-05-01 11:56:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-01 11:31:03 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/blue_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-05-01 11:50:20 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-01 11:46:00 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/blossom_berry_jelly": {
-    "criteria": {
-      "has_tag_c_water_bottles": "2025-05-01 11:56:20 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/warped_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-01 11:46:00 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/oak_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-01 11:46:00 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-05-01 11:32:38 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-01 11:46:00 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/raw_meat": {
-    "criteria": {
-      "has_raw_meat": "2025-05-01 11:50:25 +0000"
     },
     "done": true
   },
@@ -7973,27 +7763,93 @@
     },
     "done": true
   },
-  "croptopia:recipes/food/beef_jerky": {
+  "supplementaries:recipes/item_shelf": {
     "criteria": {
-      "has_the_recipe": "2025-05-01 11:50:25 +0000"
+      "minecraft:wooden_slabs": "2025-05-01 11:31:03 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/soap": {
+  "soulsweapons:all_moonlight_weapons": {
     "criteria": {
-      "has_water_bucket": "2025-05-01 11:56:20 +0000"
+      "dark_moon_greatsword": "2025-05-01 11:31:18 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "dark_moon_greatsword": "2025-05-01 11:31:18 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-01 11:32:38 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/shaped_beef_stew": {
+  "simplyswords:whisperwind": {
     "criteria": {
-      "has_beef": "2025-05-01 11:50:25 +0000"
+      "requirement": "2025-05-01 11:34:21 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/food/pork_jerky": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_the_recipe": "2025-05-01 11:50:25 +0000"
+      "lava_bucket": "2025-05-01 11:38:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2025-05-01 11:38:47 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-01 11:46:00 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-01 11:46:00 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-01 11:46:00 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-01 11:46:00 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-01 11:46:00 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-01 11:46:00 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-01 11:46:00 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-01 11:46:00 +0000"
     },
     "done": true
   },
@@ -8009,27 +7865,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-05-01 11:56:20 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/item_shelf": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-05-01 11:31:03 +0000"
-    },
-    "done": true
-  },
   "bewitchment:recipes/decorations/elder_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-01 11:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-05-01 11:50:25 +0000"
     },
     "done": true
   },
@@ -8039,21 +7877,183 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
+    "criteria": {
+      "has_iron_shovel": "2025-05-01 11:49:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-05-01 11:50:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
+    "criteria": {
+      "has_yellow_lupine": "2025-05-01 11:50:18 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-05-01 11:50:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-05-01 11:50:20 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-05-01 11:50:20 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-05-01 11:50:20 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-05-01 11:50:20 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-01 11:50:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_blue": {
     "criteria": {
       "has_item": "2025-05-01 11:50:20 +0000"
     },
     "done": true
   },
-  "soulsweapons:all_weapons": {
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
-      "dark_moon_greatsword": "2025-05-01 11:31:18 +0000"
+      "has_any_ingredient": "2025-05-01 11:50:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+  "croptopia:recipes/burrito": {
     "criteria": {
-      "has_blue_lupine": "2025-05-01 11:50:06 +0000"
+      "has_the_recipe": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_meat": {
+    "criteria": {
+      "has_raw_meat": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-01 11:50:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2025-05-01 11:56:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
+    "criteria": {
+      "has_water_bucket": "2025-05-01 11:56:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2025-05-01 11:56:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-05-01 11:56:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-05-01 11:56:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-05-01 11:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-01 11:56:20 +0000"
     },
     "done": true
   },
@@ -8063,15 +8063,63 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
-    "criteria": {
-      "has_lava_bucket": "2025-05-01 11:38:47 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/shaped_water_bottle": {
     "criteria": {
       "has_water": "2025-05-01 11:56:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_red_lupine": {
+    "criteria": {
+      "has_red_lupine": "2025-05-01 11:58:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/purple_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-01 12:03:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_purple": {
+    "criteria": {
+      "has_item": "2025-05-01 12:03:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-01 12:03:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray": {
+    "criteria": {
+      "has_item": "2025-05-01 12:03:44 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-01 12:06:13 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-05-01 12:06:13 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-05-01 12:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-01 12:07:23 +0000"
     },
     "done": true
   },

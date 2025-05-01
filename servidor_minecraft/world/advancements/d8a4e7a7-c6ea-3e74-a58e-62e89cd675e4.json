@@ -568,6 +568,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "redstone_caves": "2025-05-01 12:04:41 +0000",
       "tropical_river": "2025-04-30 21:46:35 +0000",
       "outback": "2025-04-30 21:48:55 +0000",
       "deciduous_forest": "2025-04-30 21:52:50 +0000",
@@ -5970,6 +5971,24 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-05-01 12:05:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-01 12:06:12 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-05-01 12:05:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/ghostly_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
@@ -6024,6 +6043,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/polished_slab": {
+    "criteria": {
+      "has_blunite": "2025-05-01 12:05:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/shields/shield_tower_guard": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
@@ -6066,9 +6091,21 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-05-01 12:05:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/axes/axe_highland": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-01 12:06:12 +0000"
     },
     "done": true
   },
@@ -6087,6 +6124,18 @@
   "techreborn:recipes/blast_furnace/iron_ingot_from_pickaxe": {
     "criteria": {
       "has_iron_pickaxe": "2025-05-01 11:50:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-01 12:06:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-05-01 12:04:42 +0000"
     },
     "done": true
   },
@@ -6111,6 +6160,12 @@
   "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
     "criteria": {
       "has_tag_c_raw_tin_ores": "2025-05-01 11:54:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_raw_silver": "2025-05-01 12:05:44 +0000"
     },
     "done": true
   },
@@ -6168,6 +6223,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-05-01 12:05:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
@@ -6180,9 +6241,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
+    "criteria": {
+      "has_red_garnet_gem": "2025-05-01 12:06:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-01 12:06:12 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-05-01 11:53:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-01 12:06:12 +0000"
     },
     "done": true
   },
@@ -6330,6 +6409,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-05-01 12:05:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/thief_armor_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
@@ -6351,6 +6436,18 @@
   "mcda:recipes/base_armors/mystery_armor_green_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-05-01 12:05:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2025-05-01 12:05:01 +0000"
     },
     "done": true
   },
@@ -6390,6 +6487,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-01 12:06:12 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_purple_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
@@ -6426,6 +6529,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-01 12:06:12 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_tempest_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
@@ -6447,6 +6556,12 @@
   "mcda:recipes/base_armors/mystery_armor_white_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-05-01 12:05:38 +0000"
     },
     "done": true
   },
@@ -6501,6 +6616,12 @@
   "bclib:recipes/decorations/tag_stonecutter": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-05-01 11:49:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2025-05-01 12:05:44 +0000"
     },
     "done": true
   },
@@ -6630,6 +6751,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-05-01 12:04:41 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
@@ -6672,6 +6799,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_rubies": "2025-05-01 12:06:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-05-01 11:53:35 +0000"
@@ -6681,6 +6814,12 @@
   "mcda:recipes/base_armors/guards_armor_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_red_garnet_gems": "2025-05-01 12:06:34 +0000"
     },
     "done": true
   },
@@ -6756,15 +6895,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-01 12:06:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-01 11:49:54 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-05-01 12:04:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2025-05-01 11:53:35 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_stairs": {
+    "criteria": {
+      "has_blunite": "2025-05-01 12:05:38 +0000"
     },
     "done": true
   },
@@ -6783,6 +6940,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-05-01 11:53:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2025-05-01 12:05:44 +0000"
     },
     "done": true
   },
@@ -6822,6 +6985,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-05-01 12:05:01 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_green_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
@@ -6855,6 +7024,18 @@
   "mcdw:recipes/scythes/scythe_jailors_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/redstone_from_redstone_ore_with_water": {
+    "criteria": {
+      "has_tag_c_redstone_ores": "2025-05-01 12:04:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-01 12:06:12 +0000"
     },
     "done": true
   },
@@ -6936,6 +7117,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-05-01 12:05:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
@@ -6987,6 +7174,18 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-05-01 11:53:35 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-05-01 12:05:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-05-01 12:05:01 +0000"
     },
     "done": true
   },
@@ -7047,6 +7246,12 @@
   "mcdw:recipes/sickles/sickle_sickle": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-01 12:06:12 +0000"
     },
     "done": true
   },
@@ -7126,6 +7331,18 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 11:49:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-05-01 12:05:01 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-05-01 12:05:38 +0000"
     },
     "done": true
   },
