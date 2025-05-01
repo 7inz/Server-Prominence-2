@@ -2883,7 +2883,9 @@
       "minecraft:snowy_plains": "2025-05-01 12:46:40 +0000",
       "minecraft:snowy_taiga": "2025-05-01 13:24:39 +0000",
       "minecraft:forest": "2025-04-30 22:49:51 +0000",
+      "minecraft:frozen_ocean": "2025-05-01 13:59:37 +0000",
       "minecraft:desert": "2025-04-30 21:44:29 +0000",
+      "minecraft:snowy_beach": "2025-05-01 13:58:21 +0000",
       "minecraft:warm_ocean": "2025-04-30 21:50:11 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-30 21:50:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 01:18:03 +0000",
@@ -9410,6 +9412,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_boots": {
+    "criteria": {
+      "has_fur": "2025-05-01 13:59:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/candied_nuts": {
     "criteria": {
       "has_sugar": "2025-05-01 13:03:08 +0000",
@@ -9549,6 +9557,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/lemon_sapling": {
+    "criteria": {
+      "has_lemon": "2025-05-01 13:56:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-01 12:43:26 +0000"
@@ -9570,6 +9584,12 @@
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-05-01 13:02:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemonade": {
+    "criteria": {
+      "has_lemon": "2025-05-01 13:56:54 +0000"
     },
     "done": true
   },
@@ -9837,6 +9857,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_leggings": {
+    "criteria": {
+      "has_fur": "2025-05-01 13:59:55 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_double": {
     "criteria": {
       "has_iron_block": "2025-05-01 12:30:39 +0000"
@@ -9900,6 +9926,12 @@
   "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-01 12:43:26 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_helmet": {
+    "criteria": {
+      "has_fur": "2025-05-01 13:59:55 +0000"
     },
     "done": true
   },
@@ -10179,6 +10211,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_lemon_coconut_bar": {
+    "criteria": {
+      "has_lemon": "2025-05-01 13:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-01 13:16:40 +0000"
@@ -10188,6 +10226,12 @@
   "mcda:recipes/base_armors/snow_armor_chestplate": {
     "criteria": {
       "has_snow_block": "2025-05-01 13:36:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemon_chicken": {
+    "criteria": {
+      "has_lemon": "2025-05-01 13:56:54 +0000"
     },
     "done": true
   },
@@ -10347,6 +10391,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/block_placer": {
+    "criteria": {
+      "has_piston": "2025-05-01 13:47:54 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
     "criteria": {
       "has_blue_ice": "2025-05-01 13:32:40 +0000"
@@ -10434,6 +10484,12 @@
   "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
     "criteria": {
       "has_furnace": "2025-05-01 12:59:31 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_chestplate": {
+    "criteria": {
+      "has_fur": "2025-05-01 13:59:55 +0000"
     },
     "done": true
   },
@@ -11133,6 +11189,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2025-05-01 13:47:54 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-05-01 13:47:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:21:24 +0000"
@@ -11154,6 +11222,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-01 12:21:24 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/fur_padding": {
+    "criteria": {
+      "has_fur": "2025-05-01 13:59:55 +0000"
     },
     "done": true
   },
@@ -11196,6 +11270,12 @@
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-05-01 13:02:37 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-01 13:57:09 +0000"
     },
     "done": true
   },
