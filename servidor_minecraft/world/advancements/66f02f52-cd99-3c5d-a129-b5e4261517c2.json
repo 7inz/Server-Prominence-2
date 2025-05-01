@@ -583,6 +583,7 @@
       "shrubland": "2025-05-01 00:56:31 +0000",
       "willow_forest": "2025-05-01 00:54:27 +0000",
       "redstone_caves": "2025-05-01 12:08:02 +0000",
+      "scorching_caves": "2025-05-01 12:13:35 +0000",
       "tropical_river": "2025-04-30 21:46:01 +0000",
       "magnolia_highlands": "2025-05-01 00:54:42 +0000",
       "outback": "2025-04-30 21:49:08 +0000",
@@ -8702,6 +8703,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-01 12:13:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-05-01 11:51:18 +0000"
@@ -8980,7 +8987,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "redstone_caves": "2025-05-01 12:08:02 +0000"
+      "redstone_caves": "2025-05-01 12:08:02 +0000",
+      "scorching_caves": "2025-05-01 12:13:35 +0000"
     },
     "done": false
   },
@@ -9150,6 +9158,12 @@
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2025-05-01 11:51:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2025-05-01 12:13:49 +0000"
     },
     "done": true
   },
