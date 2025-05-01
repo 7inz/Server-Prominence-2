@@ -688,6 +688,7 @@
       "minecraft:witch": "2025-05-01 13:02:37 +0000",
       "minecraft:husk": "2025-04-30 20:56:30 +0000",
       "minecraft:enderman": "2025-04-30 22:43:53 +0000",
+      "minecraft:silverfish": "2025-05-01 13:10:49 +0000",
       "minecraft:zombie": "2025-04-30 22:45:10 +0000",
       "minecraft:zombie_villager": "2025-05-01 01:45:13 +0000"
     },
@@ -9228,6 +9229,18 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2025-05-01 13:05:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-01 13:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-01 12:42:25 +0000"
@@ -9243,6 +9256,18 @@
   "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-01 12:43:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-01 13:06:15 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-05-01 13:07:48 +0000"
     },
     "done": true
   },
@@ -9355,6 +9380,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_iron_bars": "2025-05-01 13:05:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-01 12:43:26 +0000"
@@ -9409,6 +9440,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-05-01 13:06:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-05-01 13:02:37 +0000"
@@ -9439,9 +9476,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-01 13:10:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/red_mushroom": {
     "criteria": {
       "has_red_mushroom": "2025-05-01 12:39:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-05-01 13:05:33 +0000"
     },
     "done": true
   },
@@ -9571,6 +9620,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-01 12:42:25 +0000"
@@ -9625,9 +9680,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-01 13:06:15 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-05-01 13:03:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
     },
     "done": true
   },
@@ -9679,6 +9746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-01 13:14:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2025-05-01 13:02:37 +0000"
@@ -9694,6 +9767,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:21:24 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-05-01 13:05:33 +0000"
     },
     "done": true
   },
@@ -9730,6 +9809,12 @@
   "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-01 12:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-01 13:06:15 +0000"
     },
     "done": true
   },
@@ -9775,9 +9860,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-05-01 13:05:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-05-01 12:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-01 13:08:53 +0000"
     },
     "done": true
   },
@@ -9853,6 +9950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_c_furnaces": "2025-05-01 12:59:31 +0000"
@@ -9862,6 +9965,12 @@
   "techreborn:recipes/centrifuge/raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-01 12:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-01 13:09:11 +0000"
     },
     "done": true
   },
@@ -9886,6 +9995,12 @@
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
     "criteria": {
       "has_diamond_shovel": "2025-05-01 12:31:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-05-01 13:13:21 +0000"
     },
     "done": true
   },
@@ -9931,6 +10046,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot": {
+    "criteria": {
+      "has_iron_bars": "2025-05-01 13:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-05-01 12:59:31 +0000"
@@ -9946,6 +10067,12 @@
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "has_sugar": "2025-05-01 13:03:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-01 13:06:15 +0000"
     },
     "done": true
   },
@@ -9991,15 +10118,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-01 13:10:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-05-01 13:02:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
       "has_sugar": "2025-05-01 13:03:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-01 13:09:38 +0000"
     },
     "done": true
   },
@@ -10030,6 +10175,12 @@
   "techreborn:recipes/industrial_electrolyzer/sugar": {
     "criteria": {
       "has_sugar": "2025-05-01 13:03:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-05-01 13:09:11 +0000"
     },
     "done": true
   },
@@ -10141,6 +10292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
+    },
+    "done": true
+  },
   "beachparty:radio": {
     "criteria": {
       "has_redstone": "2025-05-01 13:02:37 +0000"
@@ -10174,6 +10331,12 @@
   "techreborn:recipes/crafting_table/parts/advanced_circuit": {
     "criteria": {
       "has_electronic_circuit": "2025-05-01 12:45:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-05-01 13:09:11 +0000"
     },
     "done": true
   },
@@ -10243,6 +10406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:21:24 +0000"
@@ -10309,6 +10478,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-01 12:21:24 +0000"
@@ -10351,6 +10526,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-01 13:02:37 +0000"
@@ -10366,6 +10553,12 @@
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
     "criteria": {
       "has_diamond_shovel": "2025-05-01 12:31:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-05-01 13:10:23 +0000"
     },
     "done": true
   },
@@ -10402,6 +10595,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-05-01 12:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
     },
     "done": true
   },
@@ -10477,6 +10676,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-01 13:14:02 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2025-05-01 12:30:39 +0000"
@@ -10492,6 +10697,12 @@
   "frostiful:recipes/misc/ice_skate_upgrade_template": {
     "criteria": {
       "has_ice_skate_upgrade_template": "2025-05-01 12:59:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-05-01 13:13:21 +0000"
     },
     "done": true
   },
