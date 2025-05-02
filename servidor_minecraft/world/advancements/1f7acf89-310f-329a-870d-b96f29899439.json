@@ -12114,6 +12114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-02 18:34:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_red_mushroom": "2025-05-02 16:27:21 +0000"
@@ -12150,6 +12156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-02 18:34:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
     "criteria": {
       "has_refined_iron": "2025-05-02 11:58:16 +0000"
@@ -12180,6 +12192,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/birch_pressure_plate_from_slab": {
+    "criteria": {
+      "has_birch_slab": "2025-05-02 18:18:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-02 11:58:16 +0000"
@@ -12192,6 +12210,12 @@
       "minecraft:cow": "2025-05-02 13:50:29 +0000"
     },
     "done": false
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-05-02 18:23:32 +0000"
+    },
+    "done": true
   },
   "mcda:recipes/base_armors/phantom_armor_chestplate": {
     "criteria": {
@@ -12235,6 +12259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-02 18:34:27 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-05-02 13:20:06 +0000"
@@ -12250,6 +12280,12 @@
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
     "criteria": {
       "has_diamond_pickaxe": "2025-05-02 13:25:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-02 18:34:27 +0000"
     },
     "done": true
   },
@@ -12295,6 +12331,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-02 18:34:27 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_whirlwind": {
     "criteria": {
       "has_phantom_membrane": "2025-05-02 16:36:05 +0000"
@@ -12304,6 +12346,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-05-02 13:50:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-02 18:34:27 +0000"
     },
     "done": true
   },
@@ -12415,6 +12463,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-02 18:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
@@ -12463,6 +12517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-02 18:23:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
     "criteria": {
       "has_birch_stairs": "2025-05-02 17:20:46 +0000"
@@ -12478,6 +12538,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-02 13:49:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-02 18:34:27 +0000"
     },
     "done": true
   },
@@ -12589,9 +12655,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 18:23:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-05-02 13:49:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-05-02 18:22:41 +0000"
     },
     "done": true
   },
@@ -12619,6 +12697,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/birch_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-05-02 18:18:15 +0000"
+    },
+    "done": true
+  },
   "rpg_series:classes": {
     "criteria": {
       "book": "2025-05-02 13:15:27 +0000"
@@ -12634,6 +12718,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-02 13:49:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-02 18:34:27 +0000"
     },
     "done": true
   },
