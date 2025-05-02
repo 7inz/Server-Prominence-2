@@ -3627,6 +3627,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-05-02 13:17:46 +0000",
       "opened_chest": "2025-05-02 10:10:03 +0000"
     },
     "done": false
@@ -7145,6 +7146,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-02 13:16:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 12:57:40 +0000"
@@ -7181,6 +7188,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/miner_pottery_sherd": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-02 13:11:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
@@ -7190,6 +7203,12 @@
   "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
     "criteria": {
       "has_dye": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2025-05-02 13:14:44 +0000"
     },
     "done": true
   },
@@ -7259,6 +7278,30 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-02 13:16:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-02 13:17:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-02 13:11:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-02 13:16:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 12:34:28 +0000"
@@ -7295,6 +7338,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-05-02 13:14:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_pavers_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
@@ -7310,6 +7359,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-02 13:18:43 +0000"
     },
     "done": true
   },
@@ -7334,6 +7389,12 @@
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-02 13:11:15 +0000"
     },
     "done": true
   },
@@ -7421,9 +7482,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
+    "criteria": {
+      "has_red_garnet_gem": "2025-05-02 13:16:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_molasses": {
     "criteria": {
       "has_sugar_cane": "2025-05-02 12:44:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-02 13:16:49 +0000"
     },
     "done": true
   },
@@ -7442,6 +7515,18 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-02 12:44:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-02 13:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-02 13:18:43 +0000"
     },
     "done": true
   },
@@ -7469,6 +7554,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-05-02 13:15:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-02 12:44:40 +0000"
@@ -7487,9 +7578,21 @@
     },
     "done": true
   },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-05-02 13:10:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-02 12:33:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-05-02 13:15:21 +0000"
     },
     "done": true
   },
@@ -7583,6 +7686,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-02 13:14:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-02 12:36:26 +0000"
@@ -7613,9 +7722,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-02 13:14:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-02 12:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-02 13:18:43 +0000"
     },
     "done": true
   },
@@ -7661,6 +7782,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2025-05-02 13:14:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-05-02 12:34:28 +0000"
@@ -7703,9 +7830,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-02 13:14:57 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_paver_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust": {
+    "criteria": {
+      "has_tag_c_sapphires": "2025-05-02 13:14:57 +0000"
     },
     "done": true
   },
@@ -7727,6 +7866,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-02 13:16:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
@@ -7742,6 +7887,12 @@
   "stoneworks:recipes/building_blocks/basalt_plate_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-05-02 13:18:43 +0000"
     },
     "done": true
   },
@@ -7781,9 +7932,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2025-05-02 13:15:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_galena_ores": "2025-05-02 13:16:20 +0000"
     },
     "done": true
   },
@@ -7811,9 +7974,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-02 13:16:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-02 12:57:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-02 13:14:57 +0000"
     },
     "done": true
   },
@@ -7823,9 +7998,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-05-02 13:15:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_shingles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-02 13:14:57 +0000"
     },
     "done": true
   },
@@ -7844,6 +8031,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-05-02 12:40:22 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-05-02 13:15:21 +0000"
     },
     "done": true
   },
@@ -7868,6 +8061,12 @@
   "soulsweapons:recipes/misc/paper": {
     "criteria": {
       "has_the_recipe": "2025-05-02 12:44:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2025-05-02 13:15:21 +0000"
     },
     "done": true
   },
@@ -7907,9 +8106,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone": "2025-05-02 13:15:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-02 13:14:57 +0000"
     },
     "done": true
   },
@@ -7922,6 +8133,18 @@
   "stoneworks:recipes/building_blocks/basalt_tile_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2025-05-02 13:14:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-02 13:14:57 +0000"
     },
     "done": true
   },
@@ -7942,6 +8165,24 @@
       "redstone_caves": "2025-05-02 12:34:52 +0000"
     },
     "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-02 13:18:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-05-02 13:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-02 13:14:00 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
@@ -7979,6 +8220,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_rubies": "2025-05-02 13:16:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-02 12:57:40 +0000"
@@ -7994,6 +8241,12 @@
   "mcda:recipes/crafting_items/gemstone_purple": {
     "criteria": {
       "has_amethyst_shard": "2025-05-02 12:36:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_red_garnet_gems": "2025-05-02 13:16:49 +0000"
     },
     "done": true
   },
@@ -8069,6 +8322,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-02 13:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-02 13:10:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 12:34:28 +0000"
@@ -8078,6 +8343,12 @@
   "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
     "criteria": {
       "has_wheat": "2025-05-02 12:38:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
+    "criteria": {
+      "has_furnace": "2025-05-02 13:10:17 +0000"
     },
     "done": true
   },
@@ -8102,6 +8373,18 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-02 12:57:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-05-02 13:14:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-05-02 13:15:21 +0000"
     },
     "done": true
   },
@@ -8165,9 +8448,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-05-02 13:14:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-02 13:16:49 +0000"
     },
     "done": true
   },
@@ -8228,6 +8523,18 @@
   "brewery:recipes/gingerbread": {
     "criteria": {
       "has_wheat": "2025-05-02 12:38:20 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:bow_way": {
+    "criteria": {
+      "items": "2025-05-02 13:14:00 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2025-05-02 13:10:17 +0000"
     },
     "done": true
   },
@@ -8333,6 +8640,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-05-02 13:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
@@ -8354,6 +8667,12 @@
   "stoneworks:recipes/building_blocks/cracked_diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2025-05-02 13:10:17 +0000"
     },
     "done": true
   },
@@ -8381,6 +8700,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-05-02 13:14:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-05-02 13:14:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_tile_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-02 12:57:40 +0000"
@@ -8390,6 +8721,12 @@
   "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-02 12:57:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-02 13:14:57 +0000"
     },
     "done": true
   },
@@ -8447,6 +8784,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2025-05-02 13:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
@@ -8489,9 +8832,29 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-05-02 13:18:39 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-02 12:57:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:root": {
+    "criteria": {
+      "crit_2": "2025-05-02 13:14:57 +0000",
+      "crit_1": "2025-05-02 13:14:35 +0000",
+      "crit_0": "2025-05-02 13:14:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-02 13:14:57 +0000"
     },
     "done": true
   },
@@ -8531,9 +8894,21 @@
     },
     "done": true
   },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-05-02 13:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-02 12:33:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-05-02 13:14:35 +0000"
     },
     "done": true
   },
@@ -8567,9 +8942,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_bauxite_ores": "2025-05-02 13:14:19 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/straw_hat": {
     "criteria": {
       "has_wheat": "2025-05-02 12:38:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2025-05-02 13:15:21 +0000"
     },
     "done": true
   },
@@ -8591,6 +8978,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+    "criteria": {
+      "has_sapphire_gem": "2025-05-02 13:14:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-02 12:57:40 +0000"
@@ -8606,6 +8999,12 @@
   "betterend:recipes/misc/diorite_pedestal": {
     "criteria": {
       "has_polished_diorite": "2025-05-02 12:40:22 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-05-02 13:15:21 +0000"
     },
     "done": true
   },

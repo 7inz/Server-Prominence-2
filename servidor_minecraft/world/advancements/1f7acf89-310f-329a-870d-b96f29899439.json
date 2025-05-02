@@ -12057,6 +12057,24 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/angler_pottery_sherd": {
     "criteria": {
       "has_fishing_rod": "2025-05-02 12:31:47 +0000"
@@ -12087,6 +12105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-02 11:58:16 +0000"
@@ -12099,15 +12123,45 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/crystal_ball": {
+    "criteria": {
+      "has_item": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
     "criteria": {
       "has_refined_iron": "2025-05-02 11:58:16 +0000"
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-05-02 13:18:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-02 11:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_purple": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
     },
     "done": true
   },
@@ -12123,9 +12177,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-02 11:58:16 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
     },
     "done": true
   },
@@ -12156,6 +12234,12 @@
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2025-05-02 11:58:16 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-05-02 13:15:27 +0000"
     },
     "done": true
   },

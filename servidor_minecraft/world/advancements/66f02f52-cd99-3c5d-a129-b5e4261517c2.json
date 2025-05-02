@@ -12257,6 +12257,12 @@
     },
     "done": true
   },
+  "simplyswords:mjolnir": {
+    "criteria": {
+      "requirement": "2025-05-02 13:16:54 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
     "criteria": {
       "has_glow_goop": "2025-05-02 12:41:04 +0000"
