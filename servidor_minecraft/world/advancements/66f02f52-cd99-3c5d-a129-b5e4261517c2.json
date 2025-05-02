@@ -12575,6 +12575,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-05-02 19:01:48 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/vanilla_piles/lily_of_the_valley": {
     "criteria": {
       "has_flower": "2025-05-02 16:43:14 +0000"
@@ -12902,6 +12908,12 @@
   "betternether:recipes/decorations/quartz_glass_pane_green": {
     "criteria": {
       "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-05-02 19:01:48 +0000"
     },
     "done": true
   },
