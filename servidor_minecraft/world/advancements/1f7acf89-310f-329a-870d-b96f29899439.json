@@ -12397,6 +12397,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-05-02 18:52:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-05-02 13:49:22 +0000"
@@ -12424,6 +12430,12 @@
   "vinery:recipes/basket": {
     "criteria": {
       "has_wheat": "2025-05-02 13:49:22 +0000"
+    },
+    "done": true
+  },
+  "beachparty:sand_bucket_block": {
+    "criteria": {
+      "has_wooden_shovel": "2025-05-02 18:52:35 +0000"
     },
     "done": true
   },
@@ -12505,6 +12517,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-05-02 18:50:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-02 11:58:16 +0000"
@@ -12544,6 +12562,12 @@
   "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_smooth_stone": "2025-05-02 18:34:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_shovel": {
+    "criteria": {
+      "has_wooden_shovel": "2025-05-02 18:52:35 +0000"
     },
     "done": true
   },
@@ -12646,6 +12670,12 @@
   "beachparty:beach_hat": {
     "criteria": {
       "has_wheat": "2025-05-02 13:49:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-05-02 18:52:35 +0000"
     },
     "done": true
   },
