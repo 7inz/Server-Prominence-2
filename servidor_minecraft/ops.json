@@ -16,5 +16,11 @@
     "name": "critofto",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "78d19295-46f2-358b-ae77-537b385c1a7b",
+    "name": "Goz",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
