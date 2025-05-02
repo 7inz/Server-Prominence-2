@@ -12259,6 +12259,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-05-02 17:20:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
     "criteria": {
       "has_diamond_axe": "2025-05-02 13:25:27 +0000"
@@ -12274,6 +12280,12 @@
   "brewery:recipes/rope": {
     "criteria": {
       "has_wheat": "2025-05-02 13:49:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-02 17:23:07 +0000"
     },
     "done": true
   },
@@ -12451,6 +12463,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
+    "criteria": {
+      "has_birch_stairs": "2025-05-02 17:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-02 13:49:22 +0000"
@@ -12550,6 +12568,12 @@
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2025-05-02 13:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-02 17:23:07 +0000"
     },
     "done": true
   },
