@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-02 10:22:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2025-05-02 09:51:16 +0000",
@@ -243,6 +249,12 @@
   "betternether:recipes/decorations/bamboo_taburet": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-02 10:17:31 +0000"
     },
     "done": true
   },
@@ -435,6 +447,12 @@
   "betternether:root": {
     "criteria": {
       "welcome": "2025-05-02 09:51:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-05-02 10:22:34 +0000"
     },
     "done": true
   },
@@ -1371,6 +1389,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2025-05-02 10:24:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "saguaro_desert": "2025-05-02 09:51:17 +0000",
@@ -1426,6 +1450,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-05-02 10:22:34 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/guards_armor_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 10:12:03 +0000"
@@ -1440,7 +1470,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-02 09:53:50 +0000"
+      "cooked_mutton": "2025-05-02 10:22:37 +0000",
+      "bread": "2025-05-02 09:53:50 +0000",
+      "cooked_chicken": "2025-05-02 10:22:54 +0000"
     },
     "done": false
   },
@@ -2106,6 +2138,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2025-05-02 10:22:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-05-02 10:22:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_axe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-05-02 10:11:41 +0000"
@@ -2508,6 +2552,12 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-05-02 10:25:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_ladder": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
@@ -2725,6 +2775,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/lantern": {
+    "criteria": {
+      "has_torch": "2025-05-02 10:25:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
@@ -2905,6 +2961,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-05-02 10:25:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-02 10:04:04 +0000"
@@ -3016,6 +3078,12 @@
   "betterend:recipes/decorations/lacugrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_hoe": {
+    "criteria": {
+      "has_wooden_hoe": "2025-05-02 10:25:44 +0000"
     },
     "done": true
   },
@@ -3332,6 +3400,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/yellow_dye_from_yellow_lupine": {
+    "criteria": {
+      "has_yellow_lupine": "2025-05-02 10:24:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-05-02 10:03:12 +0000"
@@ -3497,6 +3571,12 @@
   "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
     "criteria": {
       "has_pink_lupine": "2025-05-02 10:03:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_red_lupine": {
+    "criteria": {
+      "has_red_lupine": "2025-05-02 10:24:31 +0000"
     },
     "done": true
   },
@@ -3881,6 +3961,12 @@
   "seasonsextras:recipes/greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-05-02 09:51:16 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_lantern": {
+    "criteria": {
+      "has_copper_block": "2025-05-02 10:25:21 +0000"
     },
     "done": true
   },
@@ -4389,6 +4475,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-05-02 10:25:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-05-02 09:55:14 +0000"
@@ -4576,6 +4668,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-02 10:22:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-05-02 09:55:14 +0000"
@@ -4670,6 +4768,12 @@
   "seasonsextras:recipes/season_detector": {
     "criteria": {
       "has_detector": "2025-05-02 09:51:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-05-02 10:25:21 +0000"
     },
     "done": true
   },
@@ -4908,6 +5012,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-05-02 09:55:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-02 10:22:52 +0000"
     },
     "done": true
   },
@@ -5341,6 +5451,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-05-02 10:24:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2025-05-02 10:10:12 +0000"
@@ -5611,6 +5727,12 @@
     },
     "done": true
   },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-02 10:20:42 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/gemstone_green": {
     "criteria": {
       "has_emerald": "2025-05-02 10:11:37 +0000"
@@ -5722,6 +5844,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-05-02 09:56:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-02 10:22:52 +0000"
     },
     "done": true
   },
