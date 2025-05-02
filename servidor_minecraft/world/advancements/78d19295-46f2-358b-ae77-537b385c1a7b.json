@@ -680,6 +680,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-02 12:57:53 +0000",
+      "minecraft:spider": "2025-05-02 13:02:27 +0000",
       "minecraft:husk": "2025-05-02 09:53:04 +0000",
       "minecraft:zombie": "2025-05-02 12:39:55 +0000"
     },
@@ -8467,6 +8468,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-05-02 13:07:03 +0000"
     },
     "done": true
   },
