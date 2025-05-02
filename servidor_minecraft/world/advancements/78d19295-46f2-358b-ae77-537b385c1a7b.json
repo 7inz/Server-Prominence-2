@@ -5991,6 +5991,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-05-02 12:46:13 +0000",
       "potato": "2025-05-02 10:31:04 +0000",
       "wheat": "2025-05-02 10:28:00 +0000"
     },
@@ -7160,6 +7161,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
@@ -7223,6 +7230,12 @@
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 12:42:58 +0000"
     },
     "done": true
   },
@@ -7328,15 +7341,39 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-02 12:44:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_tall_torch": {
     "criteria": {
       "has_coal": "2025-05-02 12:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-02 12:44:40 +0000"
     },
     "done": true
   },
@@ -7349,6 +7386,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-02 12:44:40 +0000"
     },
     "done": true
   },
@@ -7370,6 +7413,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 12:34:28 +0000"
@@ -7379,6 +7428,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 12:42:58 +0000"
     },
     "done": true
   },
@@ -7448,6 +7503,24 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-02 12:44:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/basalt_furnace": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
@@ -7463,6 +7536,12 @@
   "stoneworks:recipes/building_blocks/diorite_plate_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 12:42:58 +0000"
     },
     "done": true
   },
@@ -7508,6 +7587,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/crystal_ball": {
     "criteria": {
       "has_item": "2025-05-02 12:36:26 +0000"
@@ -7532,6 +7623,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
@@ -7547,6 +7644,12 @@
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-02 12:44:40 +0000"
     },
     "done": true
   },
@@ -7598,6 +7701,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/paper": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 12:44:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
@@ -7613,6 +7722,12 @@
   "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-02 12:44:40 +0000"
     },
     "done": true
   },
@@ -7736,6 +7851,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-02 12:44:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tile_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
@@ -7826,9 +7947,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-02 12:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 12:42:58 +0000"
     },
     "done": true
   },
@@ -8042,6 +8175,12 @@
     },
     "done": true
   },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-05-02 12:42:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-02 12:20:23 +0000"
@@ -8051,6 +8190,18 @@
   "betterend:recipes/misc/diorite_pedestal": {
     "criteria": {
       "has_polished_diorite": "2025-05-02 12:40:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-02 12:42:58 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_rogue": {
+    "criteria": {
+      "book": "2025-05-02 12:43:11 +0000"
     },
     "done": true
   },

@@ -600,6 +600,7 @@
       "chalk_cliffs": "2025-04-30 22:32:06 +0000",
       "saguaro_desert": "2025-04-30 20:44:24 +0000",
       "temperate_grove": "2025-05-01 00:54:25 +0000",
+      "cold_river": "2025-05-02 12:48:14 +0000",
       "grassland": "2025-04-30 21:50:56 +0000",
       "prairie": "2025-04-30 21:56:34 +0000",
       "gravel_beach": "2025-05-01 23:10:11 +0000",
@@ -629,6 +630,7 @@
       "chalk_cliffs": "2025-04-30 22:32:06 +0000",
       "saguaro_desert": "2025-04-30 20:44:24 +0000",
       "temperate_grove": "2025-05-01 00:54:25 +0000",
+      "cold_river": "2025-05-02 12:48:14 +0000",
       "grassland": "2025-04-30 21:50:56 +0000",
       "prairie": "2025-04-30 21:56:34 +0000",
       "gravel_beach": "2025-05-01 23:10:11 +0000",
@@ -12252,6 +12254,12 @@
   "friendsandfoes:adventure/complete_hide_and_seek_game": {
     "criteria": {
       "friendsandfoes:complete_hide_and_seek_game": "2025-05-01 23:17:01 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-05-02 12:41:04 +0000"
     },
     "done": true
   },
