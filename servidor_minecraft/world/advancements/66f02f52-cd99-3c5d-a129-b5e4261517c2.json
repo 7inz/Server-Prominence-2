@@ -12263,6 +12263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 13:49:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/black_cushion": {
     "criteria": {
       "has_black_cushion": "2025-05-02 13:29:25 +0000"
@@ -12275,9 +12281,45 @@
     },
     "done": true
   },
+  "soulsweapons:heap_of_iron": {
+    "criteria": {
+      "guts_sword": "2025-05-02 13:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-05-02 13:29:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 13:49:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-05-02 13:49:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 13:49:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 13:49:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 13:49:09 +0000"
     },
     "done": true
   },
@@ -12293,6 +12335,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 13:49:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:bloodthirsty": {
+    "criteria": {
+      "condition_1": "2025-05-02 13:47:01 +0000"
+    },
+    "done": false
+  },
   "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
     "criteria": {
       "has_glow_goop": "2025-05-02 12:41:04 +0000"
@@ -12305,9 +12359,27 @@
     },
     "done": true
   },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "guts_sword": "2025-05-02 13:44:54 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 13:49:09 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2025-05-02 13:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-02 13:49:09 +0000"
     },
     "done": true
   },
