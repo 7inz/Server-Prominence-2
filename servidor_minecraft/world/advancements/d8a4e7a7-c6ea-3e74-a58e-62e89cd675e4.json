@@ -9713,6 +9713,12 @@
     },
     "done": true
   },
+  "simplyswords:mjolnir": {
+    "criteria": {
+      "requirement": "2025-05-02 13:21:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2025-05-02 12:17:25 +0000"
@@ -10286,6 +10292,12 @@
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-05-02 12:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecells:elevator": {
+    "criteria": {
+      "entity_squashed": "2025-05-02 13:26:54 +0000"
     },
     "done": true
   },

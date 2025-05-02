@@ -12041,6 +12041,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-05-02 13:21:36 +0000",
       "potato": "2025-05-01 18:26:14 +0000"
     },
     "done": false
@@ -12084,6 +12085,12 @@
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-02 11:58:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-02 13:25:27 +0000"
     },
     "done": true
   },
@@ -12135,9 +12142,33 @@
     },
     "done": true
   },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-05-02 13:20:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-05-02 13:25:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-05-02 13:25:04 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_the_starless_night": {
     "criteria": {
       "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-02 13:25:27 +0000"
     },
     "done": true
   },

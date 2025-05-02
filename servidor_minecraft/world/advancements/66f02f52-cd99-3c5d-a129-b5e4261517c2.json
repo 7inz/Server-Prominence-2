@@ -12257,6 +12257,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-05-02 13:20:39 +0000"
+    },
+    "done": true
+  },
   "simplyswords:mjolnir": {
     "criteria": {
       "requirement": "2025-05-02 13:16:54 +0000"
