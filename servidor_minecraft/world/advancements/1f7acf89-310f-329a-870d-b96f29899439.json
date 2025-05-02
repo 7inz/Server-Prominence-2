@@ -866,6 +866,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-05-02 12:19:35 +0000",
       "potato": "2025-04-30 22:02:08 +0000",
       "bread": "2025-04-30 21:12:05 +0000",
       "melon_slice": "2025-04-30 21:51:03 +0000",
@@ -12049,6 +12050,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-02 12:19:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-02 11:58:16 +0000"
@@ -12058,6 +12065,12 @@
   "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
     "criteria": {
       "has_refined_iron": "2025-05-02 11:58:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-02 12:19:30 +0000"
     },
     "done": true
   },
@@ -12130,6 +12143,12 @@
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2025-05-02 11:58:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-02 12:19:30 +0000"
     },
     "done": true
   },
