@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/bucket_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2025-05-02 10:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-02 10:11:41 +0000"
@@ -164,6 +170,12 @@
   "mcdw:recipes/daggers/dagger_the_beginning": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 10:12:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-05-02 10:30:45 +0000"
     },
     "done": true
   },
@@ -354,9 +366,28 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-05-02 10:31:04 +0000",
+      "wheat": "2025-05-02 10:28:00 +0000"
+    },
+    "done": false
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/mushroom_fir_gate": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-02 10:35:04 +0000"
     },
     "done": true
   },
@@ -630,6 +661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/lattice": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
@@ -723,6 +760,12 @@
   "mcda:recipes/crafting_items/fabric_bolt_gray": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -852,6 +895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-02 10:30:45 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/undead_archer": {
     "criteria": {
       "requirement": "2025-05-02 10:09:08 +0000"
@@ -870,6 +919,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_taburet": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
@@ -879,6 +940,12 @@
   "betterend:recipes/misc/copy_plate_upgrade": {
     "criteria": {
       "has_diamond": "2025-05-02 10:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -990,6 +1057,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
+    "criteria": {
+      "has_water_bucket": "2025-05-02 10:27:20 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_magenta": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
@@ -1071,6 +1144,12 @@
   "betternether:recipes/decorations/bar_stool_cincinnasite": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -1471,6 +1550,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-05-02 10:22:37 +0000",
+      "baked_potato": "2025-05-02 10:35:49 +0000",
       "bread": "2025-05-02 09:53:50 +0000",
       "cooked_chicken": "2025-05-02 10:22:54 +0000"
     },
@@ -1485,6 +1565,12 @@
   "techreborn:recipes/distillation_tower/diesel": {
     "criteria": {
       "has_oil": "2025-05-02 09:51:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-05-02 10:30:45 +0000"
     },
     "done": true
   },
@@ -1621,6 +1707,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 10:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-02 10:12:02 +0000"
@@ -1657,6 +1749,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-02 10:35:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
   "minecells:root": {
     "criteria": {
       "requirement": "2025-05-02 10:07:57 +0000"
@@ -1684,6 +1788,18 @@
   "minecells:book/book": {
     "criteria": {
       "requirement": "2025-05-02 10:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -1852,6 +1968,12 @@
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2025-05-02 09:59:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2025-05-02 10:27:20 +0000"
     },
     "done": true
   },
@@ -2243,6 +2365,12 @@
   "bclib:recipes/redstone/tag_piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-05-02 09:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -2769,6 +2897,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 10:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-02 09:56:18 +0000"
@@ -2820,6 +2954,12 @@
   "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
     "criteria": {
       "has_fur_armor": "2025-05-02 09:51:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2025-05-02 10:30:45 +0000"
     },
     "done": true
   },
@@ -2925,6 +3065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_backstabber": {
     "criteria": {
       "has_gold_nugget": "2025-05-02 10:10:14 +0000"
@@ -2940,6 +3086,12 @@
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -3346,6 +3498,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-02 10:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-02 10:10:15 +0000"
@@ -3652,6 +3810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-02 10:11:41 +0000"
@@ -3721,6 +3885,12 @@
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2025-05-02 09:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -3832,6 +4002,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-05-02 10:27:20 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/simons_bowblade": {
     "criteria": {
       "has_item": "2025-05-02 10:12:03 +0000"
@@ -3934,6 +4110,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-02 10:11:37 +0000"
@@ -3973,6 +4155,12 @@
   "betterend:recipes/decorations/tenanea_fence": {
     "criteria": {
       "has_stick": "2025-05-02 10:04:12 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -4033,6 +4221,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-02 09:59:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -4282,6 +4476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-02 10:30:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/fusion_reactor/platinum_dust": {
     "criteria": {
       "has_beryllium": "2025-05-02 09:51:16 +0000",
@@ -4292,6 +4492,12 @@
   "techreborn:recipes/blast_furnace/silicon_plate": {
     "criteria": {
       "has_silicon": "2025-05-02 09:51:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-05-02 10:27:20 +0000"
     },
     "done": true
   },
@@ -4668,6 +4874,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-05-02 10:27:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-05-02 10:22:52 +0000"
@@ -4722,6 +4934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2025-05-02 09:53:04 +0000"
@@ -4756,6 +4974,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 10:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -4905,6 +5129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/ca": {
     "criteria": {
       "has_wit": "2025-05-02 09:51:16 +0000",
@@ -4976,6 +5206,12 @@
   "bclib:recipes/transportation/tag_minecart": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-05-02 10:12:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-05-02 10:30:57 +0000"
     },
     "done": true
   },
@@ -5072,6 +5308,12 @@
   "techreborn:recipes/centrifuge/dirt": {
     "criteria": {
       "has_dirt": "2025-05-02 10:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-02 10:27:20 +0000"
     },
     "done": true
   },
@@ -5204,6 +5446,12 @@
   "mcdw:recipes/spears/spear_whispering_spear": {
     "criteria": {
       "has_diamond": "2025-05-02 10:11:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/potato": {
+    "criteria": {
+      "has_potato": "2025-05-02 10:30:45 +0000"
     },
     "done": true
   },
@@ -5378,6 +5626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-02 10:30:45 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_red_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 10:12:03 +0000"
@@ -5442,6 +5696,12 @@
   "techreborn:recipes/chemical_reactor/leather": {
     "criteria": {
       "has_rotten_flesh": "2025-05-02 09:53:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/blackstone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -5625,6 +5885,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-05-02 10:27:20 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_freezing_foil": {
     "criteria": {
       "has_iron_nugget": "2025-05-02 10:10:12 +0000"
@@ -5640,6 +5906,12 @@
   "betterend:recipes/misc/iron_bulb_lantern": {
     "criteria": {
       "has_chain": "2025-05-02 10:10:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_cobblestone": "2025-05-02 10:30:02 +0000"
     },
     "done": true
   },
@@ -5781,6 +6053,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-05-02 10:27:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-05-02 09:56:18 +0000"
@@ -5811,6 +6089,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-02 10:35:04 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/staves/staff_growing_staff": {
     "criteria": {
       "has_gold_nugget": "2025-05-02 10:10:14 +0000"
@@ -5838,6 +6122,12 @@
   "mcdw:recipes/swords/sword_claymore": {
     "criteria": {
       "has_iron_ingot": "2025-05-02 10:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-02 10:28:00 +0000"
     },
     "done": true
   },
@@ -5887,6 +6177,12 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_the_recipe": "2025-05-02 09:51:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-05-02 10:30:57 +0000"
     },
     "done": true
   },
