@@ -658,6 +658,7 @@
       "minecraft:skeleton": "2025-05-01 12:37:08 +0000",
       "minecraft:spider": "2025-05-01 01:05:17 +0000",
       "minecraft:creeper": "2025-05-01 12:32:27 +0000",
+      "minecraft:phantom": "2025-05-02 16:36:04 +0000",
       "minecraft:witch": "2025-05-01 13:15:06 +0000",
       "minecraft:husk": "2025-04-30 21:07:15 +0000",
       "minecraft:silverfish": "2025-05-01 13:14:57 +0000",
@@ -12119,6 +12120,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-05-02 16:37:06 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2025-05-02 16:27:21 +0000"
@@ -12185,6 +12192,12 @@
       "minecraft:cow": "2025-05-02 13:50:29 +0000"
     },
     "done": false
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-05-02 16:37:06 +0000"
+    },
+    "done": true
   },
   "croptopia:recipes/flour": {
     "criteria": {
@@ -12270,6 +12283,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-02 16:36:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-05-02 13:50:29 +0000"
@@ -12324,6 +12343,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-05-02 16:37:06 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/gemstone_purple": {
     "criteria": {
       "has_amethyst_shard": "2025-05-02 13:16:45 +0000"
@@ -12360,6 +12385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 16:37:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
     "criteria": {
       "has_wheat": "2025-05-02 13:49:22 +0000"
@@ -12384,6 +12415,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-05-02 16:36:04 +0000"
+    },
+    "done": false
+  },
   "brewery:recipes/pretzel": {
     "criteria": {
       "has_wheat": "2025-05-02 13:49:22 +0000"
@@ -12393,6 +12430,12 @@
   "brewery:recipes/gingerbread": {
     "criteria": {
       "has_wheat": "2025-05-02 13:49:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-05-02 16:36:05 +0000"
     },
     "done": true
   },
@@ -12498,6 +12541,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-05-02 16:36:05 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2025-05-02 13:03:20 +0000"
@@ -12525,6 +12574,12 @@
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2025-05-02 11:58:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 16:37:06 +0000"
     },
     "done": true
   },

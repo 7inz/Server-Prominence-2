@@ -12533,15 +12533,39 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/lily_of_the_valley": {
+    "criteria": {
+      "has_flower": "2025-05-02 16:43:14 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-05-02 16:36:07 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_green": {
     "criteria": {
       "has_green_dye": "2025-05-02 16:33:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-02 16:43:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/lime_stained_glass_pane_from_white_stained_glass_pane_with_green_dye": {
     "criteria": {
       "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_rubber_sapling": {
+    "criteria": {
+      "has_rubber_sapling": "2025-05-02 16:42:36 +0000"
     },
     "done": true
   },
@@ -12563,9 +12587,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-05-02 16:39:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/lime_candle_from_white_candle_with_green_dye": {
     "criteria": {
       "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-05-02 16:36:07 +0000"
     },
     "done": true
   },
@@ -12671,6 +12707,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_phantom_bones": "2025-05-02 16:36:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/green_terracotta_from_terracotta_with_green_dye": {
     "criteria": {
       "has_green_dye": "2025-05-02 16:33:40 +0000"
@@ -12695,9 +12737,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-02 16:44:24 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/acacia_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 16:36:07 +0000"
     },
     "done": true
   },
@@ -12773,6 +12827,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-05-02 16:36:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/green_terracotta_from_lime_terracotta_with_green_dye": {
     "criteria": {
       "has_green_dye": "2025-05-02 16:33:40 +0000"
@@ -12782,6 +12842,18 @@
   "betterend:recipes/misc/hydralux_petal_block_green": {
     "criteria": {
       "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-02 16:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-02 16:39:08 +0000"
     },
     "done": true
   },
@@ -12806,6 +12878,12 @@
   "bewitchment:recipes/decorations/jungle_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-05-02 16:36:07 +0000"
     },
     "done": true
   },
@@ -12839,6 +12917,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 16:39:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-02 16:43:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/green_candle_from_candle_with_green_dye": {
     "criteria": {
       "has_green_dye": "2025-05-02 16:33:40 +0000"
@@ -12860,6 +12950,12 @@
   "ae2:recipes/misc/network/cables/dense_smart_green": {
     "criteria": {
       "has_dyes/black": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 16:36:07 +0000"
     },
     "done": true
   },
