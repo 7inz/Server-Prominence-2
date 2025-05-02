@@ -12497,5 +12497,389 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_carpet_from_lime_carpet_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_carpet_from_red_carpet_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern_green": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_green": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_stained_glass_pane_from_white_stained_glass_pane_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_stained_glass_from_lime_stained_glass_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/cyan_stained_glass_pane_from_blue_stained_glass_pane_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_candle_from_white_candle_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed_green": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/cyan_terracotta_from_blue_terracotta_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_concrete_powder_from_white_concrete_powder_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_wool_from_red_wool_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_stained_glass_pane_from_glass_pane_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_green": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_stained_glass_from_white_stained_glass_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_concrete_powder_from_lime_concrete_powder_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_concrete_powder_from_red_concrete_powder_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/cyan_wool_from_blue_wool_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_pane_green": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_terracotta_from_terracotta_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_terracotta_from_red_terracotta_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_dyes/black": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_candle_from_lime_candle_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/cyan_candle_from_blue_candle_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_bulb_lantern_green": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_wool_from_white_wool_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/lime_terracotta_from_white_terracotta_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/cyan_stained_glass_from_blue_stained_glass_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_candle_from_red_candle_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_stained_glass_from_red_stained_glass_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_wool_from_lime_wool_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_terracotta_from_lime_terracotta_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/hydralux_petal_block_green": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/cyan_concrete_powder_from_blue_concrete_powder_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/cyan_carpet_from_blue_carpet_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-02 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_green_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_stained_glass_pane_from_lime_stained_glass_pane_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_stained_glass_from_glass_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_candle_from_candle_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_dyes/black": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/green_carpet_from_white_carpet_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/brown_stained_glass_pane_from_red_stained_glass_pane_with_green_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern_green": {
+    "criteria": {
+      "has_green_dye": "2025-05-02 16:33:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
