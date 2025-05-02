@@ -868,7 +868,8 @@
     "criteria": {
       "potato": "2025-04-30 22:02:08 +0000",
       "bread": "2025-04-30 21:12:05 +0000",
-      "melon_slice": "2025-04-30 21:51:03 +0000"
+      "melon_slice": "2025-04-30 21:51:03 +0000",
+      "carrot": "2025-05-02 12:11:43 +0000"
     },
     "done": false
   },
@@ -12108,6 +12109,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-05-02 12:11:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-02 11:58:16 +0000"
@@ -12123,6 +12130,12 @@
   "techreborn:recipes/compressor/refined_iron_plate": {
     "criteria": {
       "has_tag_c_refined_iron_ingots": "2025-05-02 11:58:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-05-02 12:11:14 +0000"
     },
     "done": true
   },
