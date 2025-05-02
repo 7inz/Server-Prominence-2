@@ -12137,6 +12137,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-05-02 14:14:24 +0000",
+      "minecraft:cow": "2025-05-02 13:50:29 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/flour": {
     "criteria": {
       "has_grain": "2025-05-02 13:49:22 +0000"
@@ -12206,6 +12213,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
     "criteria": {
       "has_refined_iron_ingot": "2025-05-02 11:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-02 13:50:29 +0000"
     },
     "done": true
   },
