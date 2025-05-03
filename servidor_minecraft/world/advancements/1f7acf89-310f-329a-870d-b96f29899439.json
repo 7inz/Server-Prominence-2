@@ -581,6 +581,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-05-01 00:56:03 +0000",
+      "autumnal_maple_forest": "2025-05-03 00:51:42 +0000",
       "willow_forest": "2025-05-01 00:55:48 +0000",
       "scorching_caves": "2025-05-01 12:39:55 +0000",
       "highland_fields": "2025-05-01 00:55:47 +0000",
@@ -601,6 +602,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-05-01 00:56:03 +0000",
+      "autumnal_maple_forest": "2025-05-03 00:51:42 +0000",
       "willow_forest": "2025-05-01 00:55:48 +0000",
       "highland_fields": "2025-05-01 00:55:47 +0000",
       "frozen_pine_taiga": "2025-05-01 13:23:38 +0000",
@@ -12760,6 +12762,18 @@
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
     "criteria": {
       "has_diamond_shovel": "2025-05-02 18:52:35 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-03 00:51:51 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-03 00:51:59 +0000"
     },
     "done": true
   },
